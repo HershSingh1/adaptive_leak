@@ -1,2 +1,8 @@
 __pycache__/
 *.pyc
+results/fitted.pkl
+results_verify/fitted.pkl
+# data downloads
+data/
+downloads/
+*.zip
