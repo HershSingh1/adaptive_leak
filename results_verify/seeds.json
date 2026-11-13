@@ -1,0 +1,31 @@
+{
+ "train": [
+  10000,
+  10239
+ ],
+ "tune": [
+  20000,
+  20079
+ ],
+ "verify_clean": [
+  50000,
+  50299
+ ],
+ "verify_sweep": [
+  51000,
+  51029
+ ],
+ "tune_extra": {
+  "creep": [
+   21000,
+   21029
+  ],
+  "events": [
+   22000,
+   22049
+  ]
+ },
+ "bootstrap_seed": 12345,
+ "gbr_cv_random_state": 0,
+ "note": "scenario RNG = SeedSequence([seed,1]) inside truth_sim.make_scenario"
+}

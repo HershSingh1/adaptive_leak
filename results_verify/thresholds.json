@@ -1,0 +1,165 @@
+{
+ "fitted_pkl_sha256": "9d619e7b32052e494168cc81c17328492df056c021f6cbd919f5b8c7b45c72a7",
+ "chosen_rho": 0.03,
+ "chosen_pause": 0.25,
+ "detectors": {
+  "A  Night-only level model": {
+   "h": 4.029678216137604,
+   "h_d": 10.0,
+   "c_v": 3.0,
+   "rho": 0.01,
+   "pause": null
+  },
+  "B  Static physics, calibrated once": {
+   "h": 54.546101535223585,
+   "h_d": 10.0,
+   "c_v": 3.0,
+   "rho": 0.01,
+   "pause": null
+  },
+  "C  Adaptive, no guardrails": {
+   "h": 1.361543157073848,
+   "h_d": 10.0,
+   "c_v": 3.0,
+   "rho": 0.1,
+   "pause": null
+  },
+  "D  Adaptive, all guardrails": {
+   "h": 4.3214578415976295,
+   "h_d": 100.0,
+   "c_v": 3.999999999997309,
+   "rho": 0.03,
+   "pause": 0.25
+  },
+  "D- no pause": {
+   "h": 2.0229670215312483,
+   "h_d": 100.0,
+   "c_v": 3.2108701698295175,
+   "rho": 0.03,
+   "pause": null
+  },
+  "D- fast learning": {
+   "h": 3.521497583489907,
+   "h_d": 68.37649410689389,
+   "c_v": 4.14500502228424,
+   "rho": 0.1,
+   "pause": 0.25
+  },
+  "D- no bounds": {
+   "h": 4.274148643807903,
+   "h_d": 100.0,
+   "c_v": 3.999999999997309,
+   "rho": 0.03,
+   "pause": 0.25
+  },
+  "D- no frozen copy": {
+   "h": 3.9010456303048966,
+   "h_d": 10.0,
+   "c_v": 3.9999999999977183,
+   "rho": 0.03,
+   "pause": 0.25
+  },
+  "D- no hold test": {
+   "h": 4.052119711186965,
+   "h_d": 100.0,
+   "c_v": 3.0,
+   "rho": 0.03,
+   "pause": 0.25
+  },
+  "D  cold start (no settings model)": {
+   "h": 5.445354122370411,
+   "h_d": 100.0,
+   "c_v": 3.423824954710945,
+   "rho": 0.03,
+   "pause": 0.25
+  },
+  "D  datasheet-only start": {
+   "h": 4.272626693425947,
+   "h_d": 100.0,
+   "c_v": 2.9999999999972577,
+   "rho": 0.03,
+   "pause": 0.25
+  },
+  "F0 Fixed CUSUM, h=5 (no adaptation)": {
+   "h": 5.0,
+   "h_d": null,
+   "c_v": null,
+   "rho": null,
+   "pause": null
+  },
+  "F1 Fixed CUSUM, h tuned on tune split": {
+   "h": 4.452356397789824,
+   "h_d": null,
+   "c_v": null,
+   "rho": null,
+   "pause": null
+  }
+ },
+ "tune_grid": [
+  {
+   "rho": 0.001,
+   "pause": 0.25,
+   "h": 11.73170670524736,
+   "detect_rate": 1.0,
+   "median_delay_days": 10.475694444444443,
+   "fa_week_after_change": 0.08
+  },
+  {
+   "rho": 0.001,
+   "pause": 0.5,
+   "h": 7.5964877516895415,
+   "detect_rate": 1.0,
+   "median_delay_days": 8.979166666666664,
+   "fa_week_after_change": 0.1
+  },
+  {
+   "rho": 0.003,
+   "pause": 0.25,
+   "h": 7.081464144284303,
+   "detect_rate": 1.0,
+   "median_delay_days": 8.135416666666664,
+   "fa_week_after_change": 0.1
+  },
+  {
+   "rho": 0.003,
+   "pause": 0.5,
+   "h": 4.011312574950544,
+   "detect_rate": 1.0,
+   "median_delay_days": 7.284722222222221,
+   "fa_week_after_change": 0.2
+  },
+  {
+   "rho": 0.01,
+   "pause": 0.25,
+   "h": 4.803970951846953,
+   "detect_rate": 1.0,
+   "median_delay_days": 7.2118055555555545,
+   "fa_week_after_change": 0.18
+  },
+  {
+   "rho": 0.01,
+   "pause": 0.5,
+   "h": 2.972180501248266,
+   "detect_rate": 1.0,
+   "median_delay_days": 6.628472222222219,
+   "fa_week_after_change": 0.2
+  },
+  {
+   "rho": 0.03,
+   "pause": 0.25,
+   "h": 3.8862226739614583,
+   "detect_rate": 1.0,
+   "median_delay_days": 7.006944444444443,
+   "fa_week_after_change": 0.14
+  },
+  {
+   "rho": 0.03,
+   "pause": 0.5,
+   "h": 2.547836145774824,
+   "detect_rate": 1.0,
+   "median_delay_days": 7.343749999999997,
+   "fa_week_after_change": 0.18
+  }
+ ],
+ "fa_target_per_30d": 1.0
+}
