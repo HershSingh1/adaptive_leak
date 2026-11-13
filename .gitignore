@@ -6,3 +6,5 @@ results_verify/fitted.pkl
 data/
 downloads/
 *.zip
+fit.log
+*.log
