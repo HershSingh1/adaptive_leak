@@ -1,0 +1,1101 @@
+job,name,seed,days,fa30,fa_total,fa_cusum,fa_frozen,fa_verify,days_eval
+E0,A  Night-only level model,30000,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30000,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30000,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30000,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no pause,30000,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- fast learning,30000,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30000,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30000,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no hold test,30000,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30000,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30000,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30001,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30001,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30001,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30001,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no pause,30001,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30001,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30001,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no frozen copy,30001,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30001,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30001,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  datasheet-only start,30001,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30002,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30002,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30002,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30002,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30002,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30002,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30002,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30002,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30002,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30002,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30002,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30003,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30003,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30003,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30003,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30003,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30003,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30003,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30003,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no hold test,30003,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30003,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30003,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30004,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30004,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30004,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30004,60,7.800000000000001,13,6.0,0.0,1.7999999999999998,50.0
+E0,D- no pause,30004,60,4.8,8,2.4,0.6,1.7999999999999998,50.0
+E0,D- fast learning,30004,60,9.0,15,6.6,0.0,2.4,50.0
+E0,D- no bounds,30004,60,7.800000000000001,13,5.3999999999999995,0.6,1.7999999999999998,50.0
+E0,D- no frozen copy,30004,60,10.200000000000001,17,7.800000000000001,0.0,2.4,50.0
+E0,D- no hold test,30004,60,7.800000000000001,13,7.800000000000001,0.0,0.0,50.0
+E0,D  cold start (no settings model),30004,60,7.800000000000001,13,5.3999999999999995,0.0,2.4,50.0
+E0,D  datasheet-only start,30004,60,9.6,16,7.199999999999999,0.0,2.4,50.0
+E0,A  Night-only level model,30005,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30005,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30005,60,4.2,7,4.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30005,60,9.6,16,7.199999999999999,0.0,2.4,50.0
+E0,D- no pause,30005,60,6.6,11,4.2,0.0,2.4,50.0
+E0,D- fast learning,30005,60,10.200000000000001,17,7.800000000000001,0.0,2.4,50.0
+E0,D- no bounds,30005,60,9.0,15,6.6,0.0,2.4,50.0
+E0,D- no frozen copy,30005,60,10.799999999999999,18,8.4,0.0,2.4,50.0
+E0,D- no hold test,30005,60,7.800000000000001,13,7.800000000000001,0.0,0.0,50.0
+E0,D  cold start (no settings model),30005,60,11.4,19,7.800000000000001,1.2,2.4,50.0
+E0,D  datasheet-only start,30005,60,10.799999999999999,18,8.4,0.0,2.4,50.0
+E0,A  Night-only level model,30006,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30006,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30006,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30006,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30006,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30006,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30006,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no frozen copy,30006,60,3.0,5,2.4,0.0,0.6,50.0
+E0,D- no hold test,30006,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30006,60,2.4,4,1.2,1.2,0.0,50.0
+E0,D  datasheet-only start,30006,60,3.5999999999999996,6,2.4,0.6,0.6,50.0
+E0,A  Night-only level model,30007,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30007,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30007,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30007,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30007,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30007,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30007,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30007,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30007,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30007,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30007,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30008,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30008,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30008,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30008,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30008,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30008,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30008,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30008,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30008,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30008,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30008,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30009,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30009,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30009,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30009,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30009,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30009,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30009,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30009,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30009,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30009,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30009,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30010,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30010,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30010,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30010,60,1.7999999999999998,3,0.6,0.0,1.2,50.0
+E0,D- no pause,30010,60,3.5999999999999996,6,2.4,0.0,1.2,50.0
+E0,D- fast learning,30010,60,5.3999999999999995,9,3.5999999999999996,0.0,1.7999999999999998,50.0
+E0,D- no bounds,30010,60,2.4,4,0.6,0.0,1.7999999999999998,50.0
+E0,D- no frozen copy,30010,60,3.5999999999999996,6,1.7999999999999998,0.0,1.7999999999999998,50.0
+E0,D- no hold test,30010,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30010,60,4.2,7,1.7999999999999998,0.0,2.4,50.0
+E0,D  datasheet-only start,30010,60,1.7999999999999998,3,0.6,0.0,1.2,50.0
+E0,A  Night-only level model,30011,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30011,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30011,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30011,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30011,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30011,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30011,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30011,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30011,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30011,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30011,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30012,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30012,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30012,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30012,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30012,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30012,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30012,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30012,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30012,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30012,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30012,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30013,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30013,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30013,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30013,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30013,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30013,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30013,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30013,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30013,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30013,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30013,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30014,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30014,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30014,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30014,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30014,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30014,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30014,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30014,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30014,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30014,60,2.4,4,0.6,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30014,60,4.8,8,2.4,0.0,2.4,50.0
+E0,A  Night-only level model,30015,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30015,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30015,60,4.8,8,4.8,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30015,60,2.4,4,1.2,0.0,1.2,50.0
+E0,D- no pause,30015,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30015,60,5.3999999999999995,9,3.5999999999999996,0.0,1.7999999999999998,50.0
+E0,D- no bounds,30015,60,3.0,5,1.7999999999999998,0.0,1.2,50.0
+E0,D- no frozen copy,30015,60,4.2,7,2.4,0.0,1.7999999999999998,50.0
+E0,D- no hold test,30015,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D  cold start (no settings model),30015,60,1.7999999999999998,3,0.0,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30015,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30016,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30016,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30016,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30017,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30017,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30017,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30017,60,3.0,5,1.7999999999999998,0.0,1.2,50.0
+E0,D- no pause,30017,60,1.7999999999999998,3,1.2,0.0,0.6,50.0
+E0,D- fast learning,30017,60,5.3999999999999995,9,3.0,0.0,2.4,50.0
+E0,D- no bounds,30017,60,3.5999999999999996,6,1.7999999999999998,0.0,1.7999999999999998,50.0
+E0,D- no frozen copy,30017,60,4.2,7,3.0,0.0,1.2,50.0
+E0,D- no hold test,30017,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D  cold start (no settings model),30017,60,5.3999999999999995,9,3.0,0.0,2.4,50.0
+E0,D  datasheet-only start,30017,60,5.3999999999999995,9,3.0,0.0,2.4,50.0
+E0,A  Night-only level model,30018,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30018,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30018,60,4.2,7,4.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30018,60,9.6,16,7.800000000000001,0.0,1.7999999999999998,50.0
+E0,D- no pause,30018,60,3.5999999999999996,6,2.4,0.0,1.2,50.0
+E0,D- fast learning,30018,60,6.6,11,4.8,0.0,1.7999999999999998,50.0
+E0,D- no bounds,30018,60,6.6,11,4.8,0.0,1.7999999999999998,50.0
+E0,D- no frozen copy,30018,60,9.6,16,7.800000000000001,0.0,1.7999999999999998,50.0
+E0,D- no hold test,30018,60,6.6,11,6.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30018,60,9.6,16,7.800000000000001,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30018,60,6.6,11,4.2,0.0,2.4,50.0
+E0,A  Night-only level model,30019,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30019,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30019,60,4.8,8,4.8,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30019,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30019,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30019,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30019,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30019,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30019,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30019,60,3.0,5,1.2,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30019,60,6.0,10,4.2,0.0,1.7999999999999998,50.0
+E0,A  Night-only level model,30020,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30020,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30020,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30020,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30020,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30020,60,1.7999999999999998,3,1.2,0.0,0.6,50.0
+E0,D- no bounds,30020,60,2.4,4,1.7999999999999998,0.0,0.6,50.0
+E0,D- no frozen copy,30020,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30020,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  cold start (no settings model),30020,60,1.2,2,0.6,0.0,0.6,50.0
+E0,D  datasheet-only start,30020,60,2.4,4,1.2,0.0,1.2,50.0
+E0,A  Night-only level model,30021,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30021,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30021,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30021,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30021,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30021,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30021,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30021,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no hold test,30021,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  cold start (no settings model),30021,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30021,60,2.4,4,2.4,0.0,0.0,50.0
+E0,A  Night-only level model,30022,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30022,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30022,60,6.6,11,6.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30022,60,2.4,4,1.7999999999999998,0.0,0.6,50.0
+E0,D- no pause,30022,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- fast learning,30022,60,3.0,5,1.7999999999999998,0.0,1.2,50.0
+E0,D- no bounds,30022,60,5.3999999999999995,9,3.0,0.0,2.4,50.0
+E0,D- no frozen copy,30022,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no hold test,30022,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  cold start (no settings model),30022,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30022,60,1.7999999999999998,3,1.2,0.0,0.6,50.0
+E0,A  Night-only level model,30023,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30023,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30023,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30023,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30023,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30023,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30023,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30023,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30023,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30023,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30023,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30024,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30024,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30024,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30024,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30024,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30024,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30024,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30024,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30024,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30024,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30024,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30025,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30025,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30025,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30026,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30026,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30026,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30026,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30026,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30026,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30026,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30026,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30026,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30026,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30026,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30027,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30027,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30027,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30027,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30027,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30027,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30027,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30027,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30027,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30027,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30027,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30028,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30028,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30028,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30028,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30028,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30028,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30028,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30028,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30028,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30028,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  datasheet-only start,30028,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30029,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30029,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30029,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30029,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30029,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- fast learning,30029,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30029,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30029,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30029,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30029,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30029,60,1.7999999999999998,3,1.2,0.6,0.0,50.0
+E0,A  Night-only level model,30030,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30030,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30030,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30030,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30030,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30030,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30030,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30030,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30030,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30030,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30030,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30031,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30031,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30031,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30031,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30031,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30031,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30031,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30031,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30031,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30031,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30031,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30032,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30032,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30032,60,4.8,8,4.8,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30032,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30032,60,3.0,5,3.0,0.0,0.0,50.0
+E0,D- fast learning,30032,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30032,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30032,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30032,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30032,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30032,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30033,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30033,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30033,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30033,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30033,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30033,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30033,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30033,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30033,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30033,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30033,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30034,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30034,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30034,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30034,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30034,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30034,60,3.0,5,3.0,0.0,0.0,50.0
+E0,D- no bounds,30034,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30034,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no hold test,30034,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  cold start (no settings model),30034,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30034,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,A  Night-only level model,30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30035,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30035,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30035,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30036,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30036,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30036,60,7.800000000000001,13,7.800000000000001,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30036,60,9.0,15,7.199999999999999,0.0,1.7999999999999998,50.0
+E0,D- no pause,30036,60,5.3999999999999995,9,3.5999999999999996,0.0,1.7999999999999998,50.0
+E0,D- fast learning,30036,60,3.0,5,1.7999999999999998,0.0,1.2,50.0
+E0,D- no bounds,30036,60,12.6,21,9.6,0.6,2.4,50.0
+E0,D- no frozen copy,30036,60,9.0,15,7.199999999999999,0.0,1.7999999999999998,50.0
+E0,D- no hold test,30036,60,7.199999999999999,12,7.199999999999999,0.0,0.0,50.0
+E0,D  cold start (no settings model),30036,60,2.4,4,0.6,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30036,60,6.0,10,3.5999999999999996,0.0,2.4,50.0
+E0,A  Night-only level model,30037,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30037,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30037,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30037,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30037,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30037,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30037,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30037,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no hold test,30037,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  cold start (no settings model),30037,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30037,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,A  Night-only level model,30038,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30038,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30038,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30038,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30038,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30038,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30038,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30038,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30038,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30038,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30038,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30039,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30039,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30039,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30039,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30039,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30039,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30039,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30039,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30039,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30039,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30039,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30040,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30040,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30040,60,5.3999999999999995,9,5.3999999999999995,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30040,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30040,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,D- fast learning,30040,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30040,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30040,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30040,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30040,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30040,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30041,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30041,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30041,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30041,60,4.2,7,2.4,0.0,1.7999999999999998,50.0
+E0,D- no pause,30041,60,3.5999999999999996,6,1.7999999999999998,0.0,1.7999999999999998,50.0
+E0,D- fast learning,30041,60,7.800000000000001,13,5.3999999999999995,0.0,2.4,50.0
+E0,D- no bounds,30041,60,3.5999999999999996,6,1.2,0.0,2.4,50.0
+E0,D- no frozen copy,30041,60,5.3999999999999995,9,3.5999999999999996,0.0,1.7999999999999998,50.0
+E0,D- no hold test,30041,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D  cold start (no settings model),30041,60,5.3999999999999995,9,3.0,0.0,2.4,50.0
+E0,D  datasheet-only start,30041,60,2.4,4,0.6,0.0,1.7999999999999998,50.0
+E0,A  Night-only level model,30042,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30042,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30042,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30042,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30042,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30042,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30042,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30042,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30042,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30042,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30042,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30043,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30043,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30043,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30043,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30043,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30043,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30043,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30043,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30043,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30043,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30043,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30044,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30044,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30044,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30044,60,1.2,2,0.6,0.0,0.6,50.0
+E0,D- no pause,30044,60,1.7999999999999998,3,1.2,0.0,0.6,50.0
+E0,D- fast learning,30044,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30044,60,1.2,2,0.6,0.0,0.6,50.0
+E0,D- no frozen copy,30044,60,1.2,2,0.6,0.0,0.6,50.0
+E0,D- no hold test,30044,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30044,60,2.4,4,0.6,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30044,60,0.6,1,0.0,0.0,0.6,50.0
+E0,A  Night-only level model,30045,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30045,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30045,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30045,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30045,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30045,60,1.2,2,0.6,0.0,0.6,50.0
+E0,D- no bounds,30045,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30045,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30045,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30045,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30045,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30046,60,4.2,7,4.2,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30046,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30046,60,4.2,7,4.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30046,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30046,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30046,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30046,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30046,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30046,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30046,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30046,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30047,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30047,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30047,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30047,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30047,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30047,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30047,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30047,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30047,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30047,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30047,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30048,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30048,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30048,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30049,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30049,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30049,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30049,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30049,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30049,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30049,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30049,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30049,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30049,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30049,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30050,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30050,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30050,60,4.8,8,4.8,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30050,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30050,60,3.0,5,3.0,0.0,0.0,50.0
+E0,D- fast learning,30050,60,3.0,5,3.0,0.0,0.0,50.0
+E0,D- no bounds,30050,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30050,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no hold test,30050,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30050,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30050,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,A  Night-only level model,30051,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30051,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30051,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30051,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30051,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30051,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30051,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30051,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30051,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30051,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30051,60,1.7999999999999998,3,1.2,0.0,0.6,50.0
+E0,A  Night-only level model,30052,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30052,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30052,60,4.8,8,4.8,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30052,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30052,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30052,60,3.0,5,3.0,0.0,0.0,50.0
+E0,D- no bounds,30052,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30052,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30052,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30052,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30052,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30053,60,4.8,8,4.8,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30053,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30053,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30053,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30053,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30053,60,1.7999999999999998,3,1.2,0.0,0.6,50.0
+E0,D- no bounds,30053,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30053,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30053,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30053,60,1.2,2,0.6,0.6,0.0,50.0
+E0,D  datasheet-only start,30053,60,2.4,4,0.6,0.0,1.7999999999999998,50.0
+E0,A  Night-only level model,30054,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30054,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30054,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30054,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30054,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30054,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30054,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30054,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30054,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30054,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30054,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30055,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30055,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30055,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30055,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,D- no pause,30055,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30055,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30055,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no frozen copy,30055,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,D- no hold test,30055,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,D  cold start (no settings model),30055,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30055,60,4.2,7,3.5999999999999996,0.6,0.0,50.0
+E0,A  Night-only level model,30056,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30056,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30056,60,4.2,7,4.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30056,60,4.8,8,2.4,0.0,2.4,50.0
+E0,D- no pause,30056,60,4.2,7,1.7999999999999998,0.0,2.4,50.0
+E0,D- fast learning,30056,60,3.0,5,1.7999999999999998,0.0,1.2,50.0
+E0,D- no bounds,30056,60,3.5999999999999996,6,1.2,0.0,2.4,50.0
+E0,D- no frozen copy,30056,60,5.3999999999999995,9,3.0,0.0,2.4,50.0
+E0,D- no hold test,30056,60,3.0,5,3.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30056,60,3.0,5,0.6,0.0,2.4,50.0
+E0,D  datasheet-only start,30056,60,3.5999999999999996,6,1.2,0.0,2.4,50.0
+E0,A  Night-only level model,30057,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30057,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30057,60,4.2,7,4.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30057,60,2.4,4,1.2,0.0,1.2,50.0
+E0,D- no pause,30057,60,4.2,7,2.4,0.0,1.7999999999999998,50.0
+E0,D- fast learning,30057,60,4.2,7,3.0,0.0,1.2,50.0
+E0,D- no bounds,30057,60,2.4,4,1.2,0.0,1.2,50.0
+E0,D- no frozen copy,30057,60,3.0,5,1.7999999999999998,0.0,1.2,50.0
+E0,D- no hold test,30057,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  cold start (no settings model),30057,60,3.0,5,1.2,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30057,60,3.0,5,1.2,0.0,1.7999999999999998,50.0
+E0,A  Night-only level model,30058,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30058,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30058,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30058,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30058,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30058,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30058,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30058,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30058,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30058,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30058,60,1.2,2,0.6,0.0,0.6,50.0
+E0,A  Night-only level model,30059,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30059,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30059,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30059,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30059,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30059,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30059,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30059,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no hold test,30059,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30059,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30059,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,A  Night-only level model,30060,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30060,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30060,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30060,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30060,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30060,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30060,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30060,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30060,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30060,60,1.2,2,0.0,1.2,0.0,50.0
+E0,D  datasheet-only start,30060,60,1.2,2,0.6,0.6,0.0,50.0
+E0,A  Night-only level model,30061,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30061,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30061,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30061,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no pause,30061,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30061,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30061,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30061,60,3.0,5,3.0,0.0,0.0,50.0
+E0,D- no hold test,30061,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D  cold start (no settings model),30061,60,2.4,4,1.7999999999999998,0.6,0.0,50.0
+E0,D  datasheet-only start,30061,60,4.2,7,3.5999999999999996,0.6,0.0,50.0
+E0,A  Night-only level model,30062,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30062,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30062,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30062,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30062,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- fast learning,30062,60,3.0,5,2.4,0.0,0.6,50.0
+E0,D- no bounds,30062,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30062,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30062,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30062,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30062,60,1.2,2,0.6,0.0,0.6,50.0
+E0,A  Night-only level model,30063,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30063,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30063,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30063,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30063,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30063,60,0.6,1,0.0,0.0,0.6,50.0
+E0,D- no bounds,30063,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30063,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30063,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30063,60,1.2,2,0.0,1.2,0.0,50.0
+E0,D  datasheet-only start,30063,60,0.6,1,0.0,0.0,0.6,50.0
+E0,A  Night-only level model,30064,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30064,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30064,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30065,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30065,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30065,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30065,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30065,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- fast learning,30065,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30065,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30065,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30065,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30065,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30065,60,0.6,1,0.0,0.0,0.6,50.0
+E0,A  Night-only level model,30066,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30066,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30066,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30066,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no pause,30066,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30066,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30066,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30066,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no hold test,30066,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  cold start (no settings model),30066,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30066,60,2.4,4,2.4,0.0,0.0,50.0
+E0,A  Night-only level model,30067,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30067,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30067,60,5.3999999999999995,9,5.3999999999999995,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30067,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30067,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30067,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30067,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30067,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30067,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30067,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30067,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30068,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30068,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30068,60,6.6,11,6.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30068,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30068,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30068,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30068,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30068,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no hold test,30068,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  cold start (no settings model),30068,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30068,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,A  Night-only level model,30069,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30069,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30069,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30069,60,1.7999999999999998,3,0.6,0.0,1.2,50.0
+E0,D- no pause,30069,60,1.7999999999999998,3,0.6,0.0,1.2,50.0
+E0,D- fast learning,30069,60,1.2,2,0.0,0.0,1.2,50.0
+E0,D- no bounds,30069,60,2.4,4,1.2,0.0,1.2,50.0
+E0,D- no frozen copy,30069,60,2.4,4,1.2,0.0,1.2,50.0
+E0,D- no hold test,30069,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30069,60,11.4,19,4.8,4.8,1.7999999999999998,50.0
+E0,D  datasheet-only start,30069,60,7.199999999999999,12,3.0,3.0,1.2,50.0
+E0,A  Night-only level model,30070,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30070,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30070,60,5.3999999999999995,9,5.3999999999999995,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30070,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30070,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- fast learning,30070,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30070,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30070,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30070,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30070,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30070,60,1.7999999999999998,3,1.2,0.0,0.6,50.0
+E0,A  Night-only level model,30071,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30071,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30071,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30071,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30071,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30071,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30071,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30071,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30071,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30071,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30071,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30072,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30072,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30072,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30072,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30072,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30072,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30072,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30072,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30072,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30072,60,1.7999999999999998,3,1.2,0.6,0.0,50.0
+E0,D  datasheet-only start,30072,60,3.0,5,3.0,0.0,0.0,50.0
+E0,A  Night-only level model,30073,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30073,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30073,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30073,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30073,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30073,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30073,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no frozen copy,30073,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no hold test,30073,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D  cold start (no settings model),30073,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30073,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,A  Night-only level model,30074,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30074,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30074,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30074,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30074,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30074,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30074,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30074,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30074,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30074,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30074,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30075,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30075,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30075,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30075,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30075,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30075,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30075,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30075,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no hold test,30075,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30075,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30075,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,A  Night-only level model,30076,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30076,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30076,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30076,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30076,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30076,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30076,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30076,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30076,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30076,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30076,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30077,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30077,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30077,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30077,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30077,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30077,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30077,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30077,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30077,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30077,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  datasheet-only start,30077,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30078,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30078,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30078,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30078,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30078,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30078,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30078,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30078,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30078,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30078,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30078,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30079,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30079,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30079,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30080,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30080,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30080,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30080,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30080,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30080,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30080,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30080,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30080,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30080,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30080,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30081,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30081,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30081,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30081,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30081,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30081,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30081,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30081,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30081,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30081,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30081,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30082,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30082,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30082,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30083,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30083,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30083,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30083,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30083,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30083,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30083,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30083,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30083,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30083,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30083,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30084,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30084,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30084,60,6.6,11,6.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30084,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30084,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- fast learning,30084,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30084,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30084,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30084,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30084,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30084,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30085,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30085,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30085,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30086,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30086,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30086,60,6.6,11,6.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30086,60,4.8,8,2.4,0.0,2.4,50.0
+E0,D- no pause,30086,60,6.6,11,4.2,0.0,2.4,50.0
+E0,D- fast learning,30086,60,6.0,10,3.5999999999999996,0.0,2.4,50.0
+E0,D- no bounds,30086,60,4.2,7,1.7999999999999998,0.0,2.4,50.0
+E0,D- no frozen copy,30086,60,6.0,10,3.5999999999999996,0.0,2.4,50.0
+E0,D- no hold test,30086,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,D  cold start (no settings model),30086,60,4.8,8,3.0,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30086,60,7.199999999999999,12,4.8,0.0,2.4,50.0
+E0,A  Night-only level model,30087,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30087,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30087,60,4.8,8,4.8,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30087,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30087,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- fast learning,30087,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30087,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30087,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30087,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30087,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30087,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30088,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30088,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30088,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30088,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30088,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30088,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30088,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30088,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no hold test,30088,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30088,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30088,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30089,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30089,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30089,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30089,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30089,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30089,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30089,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30089,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30089,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30089,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  datasheet-only start,30089,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30090,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- fast learning,30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no bounds,30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30090,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30091,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30091,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30091,60,4.2,7,4.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30091,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30091,60,3.0,5,3.0,0.0,0.0,50.0
+E0,D- fast learning,30091,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30091,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no frozen copy,30091,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30091,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30091,60,2.4,4,1.7999999999999998,0.0,0.6,50.0
+E0,D  datasheet-only start,30091,60,0.6,1,0.0,0.0,0.6,50.0
+E0,A  Night-only level model,30092,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30092,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30092,60,0.6,1,0.6,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30092,60,1.7999999999999998,3,1.2,0.6,0.0,50.0
+E0,D- no pause,30092,60,1.7999999999999998,3,1.2,0.6,0.0,50.0
+E0,D- fast learning,30092,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30092,60,1.7999999999999998,3,1.2,0.6,0.0,50.0
+E0,D- no frozen copy,30092,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30092,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30092,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D  datasheet-only start,30092,60,1.2,2,0.6,0.6,0.0,50.0
+E0,A  Night-only level model,30093,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30093,60,5.3999999999999995,9,5.3999999999999995,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30093,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30093,60,2.4,4,1.7999999999999998,0.6,0.0,50.0
+E0,D- no pause,30093,60,0.6,1,0.0,0.6,0.0,50.0
+E0,D- fast learning,30093,60,0.6,1,0.0,0.6,0.0,50.0
+E0,D- no bounds,30093,60,2.4,4,1.7999999999999998,0.6,0.0,50.0
+E0,D- no frozen copy,30093,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no hold test,30093,60,2.4,4,1.7999999999999998,0.6,0.0,50.0
+E0,D  cold start (no settings model),30093,60,7.800000000000001,13,5.3999999999999995,1.2,1.2,50.0
+E0,D  datasheet-only start,30093,60,4.8,8,3.5999999999999996,1.2,0.0,50.0
+E0,A  Night-only level model,30094,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30094,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30094,60,1.2,2,1.2,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30094,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30094,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30094,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- no bounds,30094,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30094,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30094,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30094,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30094,60,1.2,2,1.2,0.0,0.0,50.0
+E0,A  Night-only level model,30095,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30095,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30095,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30095,60,2.4,4,1.7999999999999998,0.0,0.6,50.0
+E0,D- no pause,30095,60,3.5999999999999996,6,3.5999999999999996,0.0,0.0,50.0
+E0,D- fast learning,30095,60,4.2,7,3.0,0.0,1.2,50.0
+E0,D- no bounds,30095,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30095,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30095,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30095,60,3.5999999999999996,6,1.7999999999999998,0.0,1.7999999999999998,50.0
+E0,D  datasheet-only start,30095,60,1.7999999999999998,3,1.2,0.0,0.6,50.0
+E0,A  Night-only level model,30096,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30096,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30096,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30096,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no pause,30096,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30096,60,2.4,4,1.7999999999999998,0.0,0.6,50.0
+E0,D- no bounds,30096,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30096,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30096,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30096,60,1.2,2,0.0,0.0,1.2,50.0
+E0,D  datasheet-only start,30096,60,7.199999999999999,12,4.8,0.0,2.4,50.0
+E0,A  Night-only level model,30097,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30097,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30097,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30097,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no pause,30097,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- fast learning,30097,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no bounds,30097,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30097,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no hold test,30097,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  cold start (no settings model),30097,60,3.0,5,0.6,0.0,2.4,50.0
+E0,D  datasheet-only start,30097,60,0.0,0,0.0,0.0,0.0,50.0
+E0,A  Night-only level model,30098,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30098,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30098,60,3.0,5,3.0,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30098,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30098,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- fast learning,30098,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no bounds,30098,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D- no frozen copy,30098,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30098,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  cold start (no settings model),30098,60,0.0,0,0.0,0.0,0.0,50.0
+E0,D  datasheet-only start,30098,60,0.6,1,0.6,0.0,0.0,50.0
+E0,A  Night-only level model,30099,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"B  Static physics, calibrated once",30099,60,0.0,0,0.0,0.0,0.0,50.0
+E0,"C  Adaptive, no guardrails",30099,60,2.4,4,2.4,0.0,0.0,50.0
+E0,"D  Adaptive, all guardrails",30099,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no pause,30099,60,1.7999999999999998,3,1.7999999999999998,0.0,0.0,50.0
+E0,D- fast learning,30099,60,2.4,4,2.4,0.0,0.0,50.0
+E0,D- no bounds,30099,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D- no frozen copy,30099,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D- no hold test,30099,60,1.2,2,1.2,0.0,0.0,50.0
+E0,D  cold start (no settings model),30099,60,0.6,1,0.6,0.0,0.0,50.0
+E0,D  datasheet-only start,30099,60,1.2,2,1.2,0.0,0.0,50.0

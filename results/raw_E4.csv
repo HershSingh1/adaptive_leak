@@ -1,0 +1,1921 @@
+job,name,seed,days,fa30,fa_total,fa_cusum,fa_frozen,fa_verify,days_eval,fa_pre,detected,delay_h,first_channel
+E4_none_clean,A  Night-only level model,34000,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34000,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34000,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34000,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34100,60,,,,,,,7.935549884100609,True,270.6785705786016,cusum
+E4_none_leak,"B  Static physics, calibrated once",34100,60,,,,,,,0.0,True,87.34523724526832,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34100,60,,,,,,,0.0,True,18.345237245268322,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34100,60,,,,,,,0.0,True,24.345237245268322,cusum
+E4_none_clean,A  Night-only level model,34001,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34001,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34001,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34001,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34101,60,,,,,,,0.0,False,,
+E4_none_leak,"B  Static physics, calibrated once",34101,60,,,,,,,0.0,True,79.6324846653082,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34101,60,,,,,,,0.0,True,18.96581799864157,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34101,60,,,,,,,0.0,True,18.96581799864157,cusum
+E4_none_clean,A  Night-only level model,34002,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34002,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34002,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34002,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34102,60,,,,,,,0.0,True,64.12390354227728,cusum
+E4_none_leak,"B  Static physics, calibrated once",34102,60,,,,,,,0.0,True,70.12390354227728,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34102,60,,,,,,,3.6668332633778693,True,9.623903542277276,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34102,60,,,,,,,0.0,True,9.623903542277276,cusum
+E4_none_clean,A  Night-only level model,34003,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34003,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34003,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34003,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34103,60,,,,,,,0.0,True,92.53320136874981,cusum
+E4_none_leak,"B  Static physics, calibrated once",34103,60,,,,,,,0.0,False,,
+E4_none_leak,"C  Adaptive, no guardrails",34103,60,,,,,,,8.752021252200814,True,19.699868035416557,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34103,60,,,,,,,11.669361669601088,True,15.533201368749872,cusum
+E4_none_clean,A  Night-only level model,34004,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34004,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34004,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34004,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34104,60,,,,,,,0.0,True,102.94680879234272,cusum
+E4_none_leak,"B  Static physics, calibrated once",34104,60,,,,,,,0.0,True,98.61347545900946,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34104,60,,,,,,,3.058798720122222,True,17.280142125676093,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34104,60,,,,,,,0.0,True,22.280142125676093,cusum
+E4_none_clean,A  Night-only level model,34005,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34005,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34005,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34005,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34105,60,,,,,,,0.0,False,,
+E4_none_leak,"B  Static physics, calibrated once",34105,60,,,,,,,0.0,True,130.2450232930679,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34105,60,,,,,,,0.0,True,28.078356626401217,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34105,60,,,,,,,0.0,True,28.078356626401217,cusum
+E4_none_clean,A  Night-only level model,34006,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34006,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34006,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34006,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34106,60,,,,,,,0.0,False,,
+E4_none_leak,"B  Static physics, calibrated once",34106,60,,,,,,,0.0,True,113.00778235320405,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34106,60,,,,,,,0.0,True,24.50778235320405,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34106,60,,,,,,,0.0,True,30.50778235320405,cusum
+E4_none_clean,A  Night-only level model,34007,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34007,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34007,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34007,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34107,60,,,,,,,0.0,True,74.75742271843012,cusum
+E4_none_leak,"B  Static physics, calibrated once",34107,60,,,,,,,0.0,True,80.75742271843012,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34107,60,,,,,,,0.0,True,18.090756051763435,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34107,60,,,,,,,0.0,True,24.090756051763435,cusum
+E4_none_clean,A  Night-only level model,34008,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34008,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34008,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34008,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34108,60,,,,,,,0.0,False,,
+E4_none_leak,"B  Static physics, calibrated once",34108,60,,,,,,,0.0,True,104.49965444471263,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34108,60,,,,,,,0.0,True,20.66632111137926,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34108,60,,,,,,,0.0,True,26.66632111137926,cusum
+E4_none_clean,A  Night-only level model,34009,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34009,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34009,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34009,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34109,60,,,,,,,0.0,True,69.86400409803662,cusum
+E4_none_leak,"B  Static physics, calibrated once",34109,60,,,,,,,0.0,True,75.86400409803662,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34109,60,,,,,,,0.0,True,13.197337431369988,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34109,60,,,,,,,0.0,True,22.197337431369988,cusum
+E4_none_clean,A  Night-only level model,34010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34110,60,,,,,,,0.0,False,,
+E4_none_leak,"B  Static physics, calibrated once",34110,60,,,,,,,0.0,True,138.34542816625026,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34110,60,,,,,,,0.0,True,18.345428166250258,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34110,60,,,,,,,0.0,True,24.345428166250258,cusum
+E4_none_clean,A  Night-only level model,34011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34111,60,,,,,,,0.0,True,58.50752663942308,cusum
+E4_none_leak,"B  Static physics, calibrated once",34111,60,,,,,,,0.0,True,96.00752663942308,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34111,60,,,,,,,0.0,False,,
+E4_none_leak,"D  Adaptive, all guardrails",34111,60,,,,,,,0.0,True,27.67419330608982,cusum
+E4_none_clean,A  Night-only level model,34012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34012,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34112,60,,,,,,,0.0,True,498.9225284250625,cusum
+E4_none_leak,"B  Static physics, calibrated once",34112,60,,,,,,,0.0,True,137.08919509172927,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34112,60,,,,,,,0.0,True,14.255861758395895,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34112,60,,,,,,,0.0,True,27.922528425062524,cusum
+E4_none_clean,A  Night-only level model,34013,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34013,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34013,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34013,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34113,60,,,,,,,0.0,True,206.99837413240192,cusum
+E4_none_leak,"B  Static physics, calibrated once",34113,60,,,,,,,0.0,True,114.49837413240192,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34113,60,,,,,,,0.0,True,18.331707465735235,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34113,60,,,,,,,0.0,True,24.331707465735235,cusum
+E4_none_clean,A  Night-only level model,34014,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34014,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34014,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34014,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34114,60,,,,,,,0.0,True,124.98031390551375,cusum
+E4_none_leak,"B  Static physics, calibrated once",34114,60,,,,,,,0.0,True,97.81364723884712,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34114,60,,,,,,,3.746363826857198,True,7.813647238847125,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34114,60,,,,,,,0.0,True,20.64698057218044,cusum
+E4_none_clean,A  Night-only level model,34015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34015,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34015,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34115,60,,,,,,,0.0,True,660.5728303984407,cusum
+E4_none_leak,"B  Static physics, calibrated once",34115,60,,,,,,,0.0,True,87.4061637317742,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34115,60,,,,,,,0.0,True,15.239497065107457,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34115,60,,,,,,,0.0,True,21.07283039844083,cusum
+E4_none_clean,A  Night-only level model,34016,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34016,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34016,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34016,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34116,60,,,,,,,0.0,False,,
+E4_none_leak,"B  Static physics, calibrated once",34116,60,,,,,,,0.0,True,138.30872753541973,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34116,60,,,,,,,0.0,False,,
+E4_none_leak,"D  Adaptive, all guardrails",34116,60,,,,,,,0.0,True,36.142060868753106,cusum
+E4_none_clean,A  Night-only level model,34017,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34017,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34017,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34017,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34117,60,,,,,,,0.0,True,83.9735592042291,cusum
+E4_none_leak,"B  Static physics, calibrated once",34117,60,,,,,,,0.0,True,89.9735592042291,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34117,60,,,,,,,0.0,True,16.80689253756242,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34117,60,,,,,,,0.0,True,16.80689253756242,cusum
+E4_none_clean,A  Night-only level model,34018,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34018,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34018,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34018,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34118,60,,,,,,,0.0,True,118.73622639870734,cusum
+E4_none_leak,"B  Static physics, calibrated once",34118,60,,,,,,,0.0,True,98.90289306537397,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34118,60,,,,,,,0.0,False,,
+E4_none_leak,"D  Adaptive, all guardrails",34118,60,,,,,,,0.0,True,29.569559732040602,cusum
+E4_none_clean,A  Night-only level model,34019,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34019,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34019,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34019,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34119,60,,,,,,,0.0,False,,
+E4_none_leak,"B  Static physics, calibrated once",34119,60,,,,,,,0.0,True,232.7882762620684,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34119,60,,,,,,,1.5009014046805718,True,9.621609595401651,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34119,60,,,,,,,0.0,True,23.288276262068393,cusum
+E4_none_clean,A  Night-only level model,34020,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34020,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34020,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34020,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34120,60,,,,,,,0.0,True,159.78628803774802,cusum
+E4_none_leak,"B  Static physics, calibrated once",34120,60,,,,,,,0.0,True,80.95295470441465,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34120,60,,,,,,,0.0,True,17.119621371081394,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34120,60,,,,,,,0.0,True,17.119621371081394,cusum
+E4_none_clean,A  Night-only level model,34021,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34021,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34021,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34021,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34121,60,,,,,,,0.0,False,,
+E4_none_leak,"B  Static physics, calibrated once",34121,60,,,,,,,0.0,True,168.24377676738027,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34121,60,,,,,,,1.9376217314982804,True,21.743776767380268,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34121,60,,,,,,,0.0,True,27.743776767380268,cusum
+E4_none_clean,A  Night-only level model,34022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34022,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34122,60,,,,,,,2.0032046071553586,False,,
+E4_none_leak,"B  Static physics, calibrated once",34122,60,,,,,,,0.0,True,141.74257317756837,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34122,60,,,,,,,0.0,True,11.575906510901746,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34122,60,,,,,,,0.0,True,16.242573177568374,cusum
+E4_none_clean,A  Night-only level model,34023,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34023,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34023,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34023,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34123,60,,,,,,,1.6067441023585107,True,444.555483969232,cusum
+E4_none_leak,"B  Static physics, calibrated once",34123,60,,,,,,,0.0,True,70.22215063589874,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34123,60,,,,,,,3.2134882047170215,True,15.888817302565485,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34123,60,,,,,,,0.0,True,15.888817302565485,cusum
+E4_none_clean,A  Night-only level model,34024,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34024,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34024,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34024,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34124,60,,,,,,,0.0,True,53.19914790222151,cusum
+E4_none_leak,"B  Static physics, calibrated once",34124,60,,,,,,,0.0,True,83.19914790222151,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34124,60,,,,,,,0.0,True,11.53248123555477,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34124,60,,,,,,,0.0,True,24.53248123555477,cusum
+E4_none_clean,A  Night-only level model,34025,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34025,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34025,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34025,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34125,60,,,,,,,0.0,True,91.838566605155,cusum
+E4_none_leak,"B  Static physics, calibrated once",34125,60,,,,,,,0.0,True,79.838566605155,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34125,60,,,,,,,0.0,False,,
+E4_none_leak,"D  Adaptive, all guardrails",34125,60,,,,,,,0.0,True,31.50523327182168,cusum
+E4_none_clean,A  Night-only level model,34026,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34026,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34026,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34026,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34126,60,,,,,,,0.0,True,676.8792280434348,cusum
+E4_none_leak,"B  Static physics, calibrated once",34126,60,,,,,,,0.0,True,106.87922804343486,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34126,60,,,,,,,0.0,True,24.712561376768235,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34126,60,,,,,,,0.0,True,24.712561376768235,cusum
+E4_none_clean,A  Night-only level model,34027,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34027,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34027,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34027,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34127,60,,,,,,,0.0,True,102.22122058739558,cusum
+E4_none_leak,"B  Static physics, calibrated once",34127,60,,,,,,,0.0,True,93.55455392072884,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34127,60,,,,,,,2.0124167262856805,True,14.054553920728836,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34127,60,,,,,,,0.0,True,19.387887254062207,cusum
+E4_none_clean,A  Night-only level model,34028,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34028,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34028,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34028,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34128,60,,,,,,,3.5829394634799963,True,524.3810126651279,cusum
+E4_none_leak,"B  Static physics, calibrated once",34128,60,,,,,,,0.0,True,88.88101266512786,cusum
+E4_none_leak,"C  Adaptive, no guardrails",34128,60,,,,,,,0.0,True,22.047679331794598,cusum
+E4_none_leak,"D  Adaptive, all guardrails",34128,60,,,,,,,0.0,True,28.881012665127912,cusum
+E4_none_clean,A  Night-only level model,34029,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"B  Static physics, calibrated once",34029,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_clean,"C  Adaptive, no guardrails",34029,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_none_clean,"D  Adaptive, all guardrails",34029,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_none_leak,A  Night-only level model,34129,60,,,,,,,1.5368093075163292,True,423.6635176561965,cusum
+E4_none_leak,"B  Static physics, calibrated once",34129,60,,,,,,,0.0,False,,
+E4_none_leak,"C  Adaptive, no guardrails",34129,60,,,,,,,0.0,False,,
+E4_none_leak,"D  Adaptive, all guardrails",34129,60,,,,,,,0.0,True,32.33018432286326,cusum
+E4_second_outgas_clean,A  Night-only level model,34200,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34200,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34200,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34200,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34300,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34300,60,,,,,,,0.0,True,114.69085067289598,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34300,60,,,,,,,0.0,True,20.190850672895976,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34300,60,,,,,,,0.0,True,26.190850672895976,cusum
+E4_second_outgas_clean,A  Night-only level model,34201,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34201,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34201,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34201,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34301,60,,,,,,,4.5475974469757094,True,121.01594795416406,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34301,60,,,,,,,0.0,True,160.6826146208307,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34301,60,,,,,,,2.2737987234878547,True,21.849281287497433,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34301,60,,,,,,,0.0,True,30.68261462083069,cusum
+E4_second_outgas_clean,A  Night-only level model,34202,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34202,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34202,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34202,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34302,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34302,60,,,,,,,0.0,True,81.824583960327,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34302,60,,,,,,,5.336454512794083,True,22.824583960327004,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34302,60,,,,,,,0.0,True,22.824583960327004,cusum
+E4_second_outgas_clean,A  Night-only level model,34203,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34203,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34203,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34203,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34303,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34303,60,,,,,,,0.0,True,126.4623077541878,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34303,60,,,,,,,2.5649762005458907,True,5.962307754187805,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34303,60,,,,,,,0.0,True,23.962307754187805,cusum
+E4_second_outgas_clean,A  Night-only level model,34204,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34204,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34204,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34204,60,0.6,1.0,0.0,0.0,0.6,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34304,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34304,60,,,,,,,0.0,True,200.09223411211042,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34304,60,,,,,,,3.8426529755945382,True,12.92556744544379,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34304,60,,,,,,,0.0,True,17.592234112110418,cusum
+E4_second_outgas_clean,A  Night-only level model,34205,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34205,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34205,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34205,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34305,60,,,,,,,2.047680884634511,True,38.21604501327738,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34305,60,,,,,,,0.0,True,125.38271167994412,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34305,60,,,,,,,0.0,True,20.21604501327738,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34305,60,,,,,,,0.0,True,26.21604501327738,cusum
+E4_second_outgas_clean,A  Night-only level model,34206,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34206,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34206,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34206,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34306,60,,,,,,,0.0,True,46.8343938656148,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34306,60,,,,,,,0.0,True,106.16772719894811,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34306,60,,,,,,,0.0,True,26.001060532281485,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34306,60,,,,,,,0.0,True,26.001060532281485,cusum
+E4_second_outgas_clean,A  Night-only level model,34207,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34207,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34207,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34207,60,0.6,1.0,0.0,0.0,0.6,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34307,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34307,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34307,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34307,60,,,,,,,0.0,True,24.639715966267772,cusum
+E4_second_outgas_clean,A  Night-only level model,34208,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34208,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34208,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34208,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34308,60,,,,,,,0.0,True,890.9748447831147,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34308,60,,,,,,,0.0,True,121.64151144978143,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34308,60,,,,,,,0.0,True,6.641511449781433,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34308,60,,,,,,,0.0,True,16.80817811644806,cusum
+E4_second_outgas_clean,A  Night-only level model,34209,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34209,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34209,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34209,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34309,60,,,,,,,0.0,True,196.7464161447437,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34309,60,,,,,,,0.0,True,94.91308281141033,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34309,60,,,,,,,0.0,True,18.746416144743705,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34309,60,,,,,,,0.0,True,18.746416144743705,cusum
+E4_second_outgas_clean,A  Night-only level model,34210,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34210,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34210,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34210,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34310,60,,,,,,,1.6515236455288398,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34310,60,,,,,,,0.0,True,88.87227280038132,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34310,60,,,,,,,0.0,True,15.372272800381324,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34310,60,,,,,,,0.0,True,26.705606133714696,cusum
+E4_second_outgas_clean,A  Night-only level model,34211,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34211,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34211,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34211,60,1.2,2.0,0.0,0.0,1.2,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34311,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34311,60,,,,,,,0.0,True,107.29951009870416,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34311,60,,,,,,,0.0,True,12.966176765370847,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34311,60,,,,,,,0.0,True,16.966176765370847,cusum
+E4_second_outgas_clean,A  Night-only level model,34212,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34212,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34212,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34212,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34312,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34312,60,,,,,,,0.0,True,80.57703909677014,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34312,60,,,,,,,1.8200679436995189,True,12.577039096770136,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34312,60,,,,,,,0.0,True,12.577039096770136,cusum
+E4_second_outgas_clean,A  Night-only level model,34213,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34213,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34213,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34213,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34313,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34313,60,,,,,,,0.0,True,241.0279153658688,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34313,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34313,60,,,,,,,0.0,False,,
+E4_second_outgas_clean,A  Night-only level model,34214,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34214,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34214,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34214,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34314,60,,,,,,,0.0,True,110.74540625155709,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34314,60,,,,,,,0.0,True,76.0787395848904,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34314,60,,,,,,,0.0,True,10.412072918223714,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34314,60,,,,,,,0.0,True,16.412072918223714,cusum
+E4_second_outgas_clean,A  Night-only level model,34215,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34215,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34215,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34215,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34315,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34315,60,,,,,,,0.0,True,112.0204378079178,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34315,60,,,,,,,0.0,True,9.853771141251116,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34315,60,,,,,,,3.871393133275442,True,19.353771141251116,cusum
+E4_second_outgas_clean,A  Night-only level model,34216,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34216,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34216,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34216,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34316,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34316,60,,,,,,,0.0,True,260.3937708610956,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34316,60,,,,,,,0.0,True,16.06043752776236,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34316,60,,,,,,,0.0,True,27.393770861095618,cusum
+E4_second_outgas_clean,A  Night-only level model,34217,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34217,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34217,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34217,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34317,60,,,,,,,8.593456805431444,True,137.9099499371846,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34317,60,,,,,,,0.0,True,82.24328327051796,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34317,60,,,,,,,1.7186913610862888,True,17.243283270517964,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34317,60,,,,,,,0.0,True,27.409949937184592,cusum
+E4_second_outgas_clean,A  Night-only level model,34218,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34218,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34218,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34218,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34318,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34318,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34318,60,,,,,,,0.0,True,26.814768738182693,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34318,60,,,,,,,0.0,True,26.814768738182693,cusum
+E4_second_outgas_clean,A  Night-only level model,34219,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34219,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34219,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34219,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34319,60,,,,,,,0.0,True,117.8505185389638,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34319,60,,,,,,,0.0,True,93.8505185389638,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34319,60,,,,,,,0.0,True,18.517185205630426,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34319,60,,,,,,,0.0,True,24.350518538963797,cusum
+E4_second_outgas_clean,A  Night-only level model,34220,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34220,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34220,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34220,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34320,60,,,,,,,0.0,True,101.09930770320977,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34320,60,,,,,,,0.0,True,101.09930770320977,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34320,60,,,,,,,0.0,True,7.432641036543146,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34320,60,,,,,,,0.0,True,12.932641036543146,cusum
+E4_second_outgas_clean,A  Night-only level model,34221,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34221,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34221,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34221,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34321,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34321,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34321,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34321,60,,,,,,,0.0,False,,
+E4_second_outgas_clean,A  Night-only level model,34222,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34222,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34222,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34222,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34322,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34322,60,,,,,,,0.0,True,94.76197287053947,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34322,60,,,,,,,0.0,True,17.261972870539466,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34322,60,,,,,,,0.0,True,24.261972870539466,cusum
+E4_second_outgas_clean,A  Night-only level model,34223,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34223,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34223,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34223,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34323,60,,,,,,,0.0,True,30.863828740250938,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34323,60,,,,,,,0.0,True,90.36382874025094,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34323,60,,,,,,,0.0,True,13.697162073584309,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34323,60,,,,,,,0.0,True,24.863828740250938,cusum
+E4_second_outgas_clean,A  Night-only level model,34224,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34224,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34224,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34224,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34324,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34324,60,,,,,,,0.0,True,99.64315398535257,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34324,60,,,,,,,4.020210723312558,True,17.30982065201931,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34324,60,,,,,,,0.0,True,23.30982065201931,cusum
+E4_second_outgas_clean,A  Night-only level model,34225,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34225,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34225,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34225,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34325,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34325,60,,,,,,,0.0,True,80.8124382988251,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34325,60,,,,,,,0.0,True,18.97910496549173,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34325,60,,,,,,,0.0,True,24.97910496549173,cusum
+E4_second_outgas_clean,A  Night-only level model,34226,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34226,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34226,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34226,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34326,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34326,60,,,,,,,0.0,True,101.7437629707722,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34326,60,,,,,,,4.216537050279223,True,21.743762970772195,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34326,60,,,,,,,4.216537050279223,True,26.57709630410551,cusum
+E4_second_outgas_clean,A  Night-only level model,34227,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34227,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34227,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34227,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34327,60,,,,,,,0.0,True,75.97101137461613,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34327,60,,,,,,,0.0,True,87.97101137461613,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34327,60,,,,,,,0.0,True,17.30434470794944,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34327,60,,,,,,,0.0,True,23.30434470794944,cusum
+E4_second_outgas_clean,A  Night-only level model,34228,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34228,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34228,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34228,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34328,60,,,,,,,0.0,True,158.73779308837356,cusum
+E4_second_outgas_leak,"B  Static physics, calibrated once",34328,60,,,,,,,0.0,True,95.57112642170682,cusum
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34328,60,,,,,,,0.0,True,17.904459755040193,cusum
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34328,60,,,,,,,0.0,True,24.071126421706822,cusum
+E4_second_outgas_clean,A  Night-only level model,34229,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"B  Static physics, calibrated once",34229,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"C  Adaptive, no guardrails",34229,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_second_outgas_clean,"D  Adaptive, all guardrails",34229,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_second_outgas_leak,A  Night-only level model,34329,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"B  Static physics, calibrated once",34329,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"C  Adaptive, no guardrails",34329,60,,,,,,,0.0,False,,
+E4_second_outgas_leak,"D  Adaptive, all guardrails",34329,60,,,,,,,0.0,False,,
+E4_solar_lag_clean,A  Night-only level model,34400,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34400,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34400,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34400,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34500,60,,,,,,,0.0,True,147.2824803716254,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34500,60,,,,,,,0.0,True,98.94914703829204,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34500,60,,,,,,,0.0,True,14.44914703829204,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34500,60,,,,,,,0.0,True,19.115813704958782,cusum
+E4_solar_lag_clean,A  Night-only level model,34401,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34401,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34401,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34401,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34501,60,,,,,,,0.0,True,57.20937025908006,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34501,60,,,,,,,0.0,True,93.04270359241332,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34501,60,,,,,,,1.5132706593907879,True,15.542703592413318,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34501,60,,,,,,,0.0,True,15.542703592413318,cusum
+E4_solar_lag_clean,A  Night-only level model,34402,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34402,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34402,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34402,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34502,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34502,60,,,,,,,0.0,True,157.7261093876333,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34502,60,,,,,,,3.3688894876205384,True,23.059442720966672,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34502,60,,,,,,,0.0,True,19.39277605429993,verify
+E4_solar_lag_clean,A  Night-only level model,34403,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34403,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34403,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34403,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34503,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34503,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34503,60,,,,,,,3.561879918105841,True,235.3857719963678,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34503,60,,,,,,,3.561879918105841,True,29.552438663034422,cusum
+E4_solar_lag_clean,A  Night-only level model,34404,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34404,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34404,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34404,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34504,60,,,,,,,5.485927901497227,True,114.25511072548062,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34504,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34504,60,,,,,,,5.485927901497227,True,21.92177739214725,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34504,60,,,,,,,0.0,True,75.42177739214725,cusum
+E4_solar_lag_clean,A  Night-only level model,34405,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34405,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34405,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34405,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34505,60,,,,,,,0.0,True,859.5977784836518,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34505,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34505,60,,,,,,,0.0,True,33.597778483651894,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34505,60,,,,,,,0.0,True,81.26444515031858,cusum
+E4_solar_lag_clean,A  Night-only level model,34406,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34406,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34406,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34406,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34506,60,,,,,,,0.0,True,395.47681418173806,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34506,60,,,,,,,0.0,True,245.31014751507144,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34506,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34506,60,,,,,,,0.0,True,46.143480848404806,cusum
+E4_solar_lag_clean,A  Night-only level model,34407,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34407,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34407,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34407,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34507,60,,,,,,,0.0,True,49.48029241167956,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34507,60,,,,,,,0.0,True,89.98029241167956,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34507,60,,,,,,,3.006015693863134,True,11.146959078346185,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34507,60,,,,,,,0.0,True,25.480292411679557,cusum
+E4_solar_lag_clean,A  Night-only level model,34408,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34408,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34408,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34408,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34508,60,,,,,,,0.0,True,798.0410149877437,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34508,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34508,60,,,,,,,4.312436374401447,True,15.70768165441035,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34508,60,,,,,,,4.312436374401447,True,33.04101498774372,cusum
+E4_solar_lag_clean,A  Night-only level model,34409,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34409,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34409,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34409,60,1.7999999999999998,3.0,1.2,0.0,0.6,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34509,60,,,,,,,0.0,True,107.51327259391473,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34509,60,,,,,,,0.0,True,138.01327259391473,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34509,60,,,,,,,1.9295014099741115,True,8.846605927248106,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34509,60,,,,,,,0.0,True,19.513272593914735,cusum
+E4_solar_lag_clean,A  Night-only level model,34410,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34410,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34410,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34410,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34510,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34510,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34510,60,,,,,,,4.47809136620604,True,678.9344305998368,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34510,60,,,,,,,0.0,True,797.26776393317,verify
+E4_solar_lag_clean,A  Night-only level model,34411,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34411,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34411,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34411,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34511,60,,,,,,,0.0,True,307.77235663733506,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34511,60,,,,,,,0.0,True,224.60568997066844,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34511,60,,,,,,,11.085935940341283,True,34.605689970668436,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34511,60,,,,,,,0.0,True,224.60568997066844,cusum
+E4_solar_lag_clean,A  Night-only level model,34412,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34412,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34412,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34412,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34512,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34512,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34512,60,,,,,,,6.272848084598742,True,244.32547254412952,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34512,60,,,,,,,0.0,True,248.32547254412952,cusum
+E4_solar_lag_clean,A  Night-only level model,34413,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34413,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34413,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34413,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34513,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34513,60,,,,,,,0.0,True,247.5890914828526,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34513,60,,,,,,,2.323248327866337,True,15.755758149519238,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34513,60,,,,,,,0.0,True,26.255758149519238,cusum
+E4_solar_lag_clean,A  Night-only level model,34414,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34414,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34414,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34414,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34514,60,,,,,,,0.0,True,29.016435950664913,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34514,60,,,,,,,0.0,True,130.0164359506649,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34514,60,,,,,,,5.992497856303407,True,17.016435950664913,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34514,60,,,,,,,0.0,True,35.51643595066491,cusum
+E4_solar_lag_clean,A  Night-only level model,34415,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34415,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34415,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34415,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34515,60,,,,,,,1.578166499602964,True,77.10770683502778,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34515,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34515,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34515,60,,,,,,,4.734499498808892,True,6.774373501694527,cusum
+E4_solar_lag_clean,A  Night-only level model,34416,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34416,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34416,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34416,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34516,60,,,,,,,0.0,True,47.60487328450563,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34516,60,,,,,,,0.0,True,110.438206617839,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34516,60,,,,,,,0.0,True,23.271539951172258,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34516,60,,,,,,,0.0,True,29.60487328450563,cusum
+E4_solar_lag_clean,A  Night-only level model,34417,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34417,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34417,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34417,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34517,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34517,60,,,,,,,0.0,True,438.25851206325353,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34517,60,,,,,,,0.0,True,597.5918453965869,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34517,60,,,,,,,0.0,True,30.091845396586905,cusum
+E4_solar_lag_clean,A  Night-only level model,34418,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34418,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34418,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34418,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34518,60,,,,,,,0.0,True,130.8117324734011,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34518,60,,,,,,,0.0,True,143.47839914006784,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34518,60,,,,,,,0.0,True,16.31173247340115,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34518,60,,,,,,,0.0,True,20.478399140067836,cusum
+E4_solar_lag_clean,A  Night-only level model,34419,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34419,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34419,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34419,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34519,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34519,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34519,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34519,60,,,,,,,0.0,True,26.8035368589247,cusum
+E4_solar_lag_clean,A  Night-only level model,34420,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34420,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34420,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34420,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34520,60,,,,,,,0.0,True,419.7000169677914,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34520,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34520,60,,,,,,,3.8996212285681158,True,29.866683634458127,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34520,60,,,,,,,0.0,False,,
+E4_solar_lag_clean,A  Night-only level model,34421,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34421,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34421,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34421,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34521,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34521,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34521,60,,,,,,,6.385039719289359,True,16.77897398464347,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34521,60,,,,,,,0.0,True,75.44564065131021,cusum
+E4_solar_lag_clean,A  Night-only level model,34422,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34422,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34422,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34422,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34522,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34522,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34522,60,,,,,,,1.5883414356570633,True,18.530294177806013,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34522,60,,,,,,,0.0,True,665.8636275111393,cusum
+E4_solar_lag_clean,A  Night-only level model,34423,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34423,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34423,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34423,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34523,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34523,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34523,60,,,,,,,7.89742838300546,True,23.655410418552265,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34523,60,,,,,,,0.0,True,39.82207708521889,cusum
+E4_solar_lag_clean,A  Night-only level model,34424,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34424,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34424,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34424,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34524,60,,,,,,,1.6623214157874493,True,47.70410022474539,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34524,60,,,,,,,0.0,True,90.20410022474539,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34524,60,,,,,,,4.986964247362348,True,21.70410022474539,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34524,60,,,,,,,0.0,True,15.704100224745389,cusum
+E4_solar_lag_clean,A  Night-only level model,34425,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34425,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34425,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34425,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34525,60,,,,,,,0.0,True,201.65496991853104,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34525,60,,,,,,,0.0,True,136.32163658519767,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34525,60,,,,,,,1.6035217015824648,True,21.154969918531037,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34525,60,,,,,,,0.0,True,21.154969918531037,cusum
+E4_solar_lag_clean,A  Night-only level model,34426,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34426,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34426,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34426,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34526,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34526,60,,,,,,,0.0,True,98.17350446465713,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34526,60,,,,,,,0.0,True,17.173504464657128,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34526,60,,,,,,,0.0,True,22.006837797990443,cusum
+E4_solar_lag_clean,A  Night-only level model,34427,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34427,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34427,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34427,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34527,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34527,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34527,60,,,,,,,19.822251365581906,True,41.20873379193199,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34527,60,,,,,,,0.0,True,41.20873379193199,cusum
+E4_solar_lag_clean,A  Night-only level model,34428,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34428,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34428,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34428,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34528,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"B  Static physics, calibrated once",34528,60,,,,,,,0.0,False,,
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34528,60,,,,,,,5.180846607544523,True,18.19324117448707,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34528,60,,,,,,,0.0,True,23.526574507820442,cusum
+E4_solar_lag_clean,A  Night-only level model,34429,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"B  Static physics, calibrated once",34429,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"C  Adaptive, no guardrails",34429,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_solar_lag_clean,"D  Adaptive, all guardrails",34429,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_solar_lag_leak,A  Night-only level model,34529,60,,,,,,,0.0,True,296.1192353164789,cusum
+E4_solar_lag_leak,"B  Static physics, calibrated once",34529,60,,,,,,,0.0,True,277.1192353164789,cusum
+E4_solar_lag_leak,"C  Adaptive, no guardrails",34529,60,,,,,,,1.5092838839152398,True,15.119235316478921,cusum
+E4_solar_lag_leak,"D  Adaptive, all guardrails",34529,60,,,,,,,0.0,True,21.11923531647892,cusum
+E4_vent_humidity_clean,A  Night-only level model,34600,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34600,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34600,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34600,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34700,60,,,,,,,0.0,True,63.97798846491179,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34700,60,,,,,,,0.0,True,109.31132179824505,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34700,60,,,,,,,0.0,True,17.311321798245103,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34700,60,,,,,,,0.0,True,28.311321798245103,cusum
+E4_vent_humidity_clean,A  Night-only level model,34601,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34601,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34601,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34601,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34701,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34701,60,,,,,,,0.0,True,120.13908394958253,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34701,60,,,,,,,0.0,True,8.972417282915785,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34701,60,,,,,,,0.0,True,17.639083949582528,cusum
+E4_vent_humidity_clean,A  Night-only level model,34602,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34602,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34602,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34602,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34702,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34702,60,,,,,,,0.0,True,182.02187225897683,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34702,60,,,,,,,0.0,True,30.188538925643456,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34702,60,,,,,,,0.0,True,24.188538925643456,cusum
+E4_vent_humidity_clean,A  Night-only level model,34603,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34603,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34603,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34603,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34703,60,,,,,,,0.0,True,134.70462934393595,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34703,60,,,,,,,0.0,True,97.37129601060258,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34703,60,,,,,,,3.938830602853206,True,16.037962677269263,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34703,60,,,,,,,0.0,True,28.70462934393595,cusum
+E4_vent_humidity_clean,A  Night-only level model,34604,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34604,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34604,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34604,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34704,60,,,,,,,0.0,True,128.76997154056335,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34704,60,,,,,,,0.0,True,116.76997154056335,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34704,60,,,,,,,0.0,True,2.1033048738966045,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34704,60,,,,,,,0.0,True,20.103304873896604,cusum
+E4_vent_humidity_clean,A  Night-only level model,34605,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34605,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34605,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34605,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34705,60,,,,,,,0.0,True,423.9815703115096,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34705,60,,,,,,,0.0,True,126.31490364484284,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34705,60,,,,,,,0.0,True,17.981570311509586,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34705,60,,,,,,,0.0,True,23.648236978176215,cusum
+E4_vent_humidity_clean,A  Night-only level model,34606,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34606,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34606,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34606,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34706,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34706,60,,,,,,,0.0,True,83.85061393450997,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34706,60,,,,,,,0.0,True,14.683947267843223,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34706,60,,,,,,,0.0,True,19.517280601176594,cusum
+E4_vent_humidity_clean,A  Night-only level model,34607,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34607,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34607,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34607,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34707,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34707,60,,,,,,,0.0,True,130.61137377475575,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34707,60,,,,,,,3.082046916973862,True,21.611373774755748,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34707,60,,,,,,,0.0,True,33.27804044142249,cusum
+E4_vent_humidity_clean,A  Night-only level model,34608,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34608,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34608,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34608,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34708,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34708,60,,,,,,,0.0,True,102.73256977052642,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34708,60,,,,,,,0.0,True,12.565903103859796,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34708,60,,,,,,,0.0,True,18.565903103859796,cusum
+E4_vent_humidity_clean,A  Night-only level model,34609,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34609,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34609,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34609,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34709,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34709,60,,,,,,,0.0,True,162.0613235028992,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34709,60,,,,,,,0.0,True,17.5613235028992,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34709,60,,,,,,,0.0,True,23.5613235028992,cusum
+E4_vent_humidity_clean,A  Night-only level model,34610,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34610,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34610,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34610,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34710,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34710,60,,,,,,,0.0,True,99.98878985067404,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34710,60,,,,,,,0.0,True,7.4887898506740385,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34710,60,,,,,,,0.0,True,17.48878985067404,cusum
+E4_vent_humidity_clean,A  Night-only level model,34611,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34611,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34611,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34611,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34711,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34711,60,,,,,,,0.0,True,146.3529819704628,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34711,60,,,,,,,1.7294651280209654,True,25.51964863712942,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34711,60,,,,,,,0.0,True,25.51964863712942,cusum
+E4_vent_humidity_clean,A  Night-only level model,34612,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34612,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34612,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34612,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34712,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34712,60,,,,,,,0.0,True,92.08739891424977,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34712,60,,,,,,,0.0,True,92.08739891424977,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34712,60,,,,,,,0.0,True,28.587398914249775,cusum
+E4_vent_humidity_clean,A  Night-only level model,34613,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34613,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34613,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34613,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34713,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34713,60,,,,,,,0.0,True,103.10109967242784,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34713,60,,,,,,,0.0,True,8.267766339094578,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34713,60,,,,,,,0.0,True,20.601099672427836,cusum
+E4_vent_humidity_clean,A  Night-only level model,34614,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34614,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34614,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34614,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34714,60,,,,,,,0.0,True,112.924960264623,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34714,60,,,,,,,0.0,True,107.424960264623,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34714,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34714,60,,,,,,,0.0,True,26.758293597956254,cusum
+E4_vent_humidity_clean,A  Night-only level model,34615,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34615,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34615,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34615,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34715,60,,,,,,,0.0,True,145.53630317591433,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34715,60,,,,,,,0.0,True,78.70296984258107,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34715,60,,,,,,,1.8590382676245985,True,10.036303175914327,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34715,60,,,,,,,0.0,True,16.036303175914327,cusum
+E4_vent_humidity_clean,A  Night-only level model,34616,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34616,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34616,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34616,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34716,60,,,,,,,6.4659392068559,True,118.46120131475709,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34716,60,,,,,,,0.0,True,124.46120131475709,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34716,60,,,,,,,0.0,True,9.96120131475709,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34716,60,,,,,,,0.0,True,27.96120131475709,cusum
+E4_vent_humidity_clean,A  Night-only level model,34617,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34617,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34617,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34617,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34717,60,,,,,,,10.352268598045326,True,37.30010857293735,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34717,60,,,,,,,0.0,True,102.6334419062706,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34717,60,,,,,,,2.5880671495113314,True,19.300108572937347,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34717,60,,,,,,,0.0,True,25.300108572937347,cusum
+E4_vent_humidity_clean,A  Night-only level model,34618,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34618,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34618,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34618,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34718,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34718,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34718,60,,,,,,,0.0,True,40.91882674013925,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34718,60,,,,,,,0.0,True,45.58549340680588,cusum
+E4_vent_humidity_clean,A  Night-only level model,34619,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34619,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34619,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34619,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34719,60,,,,,,,0.0,True,632.6435496014221,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34719,60,,,,,,,0.0,True,132.14354960142208,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34719,60,,,,,,,0.0,True,20.47688293475545,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34719,60,,,,,,,0.0,True,26.47688293475545,cusum
+E4_vent_humidity_clean,A  Night-only level model,34620,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34620,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34620,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34620,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34720,60,,,,,,,0.0,True,125.54206510492276,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34720,60,,,,,,,0.0,True,105.04206510492276,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34720,60,,,,,,,0.0,True,693.7087317715896,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34720,60,,,,,,,0.0,True,33.04206510492281,cusum
+E4_vent_humidity_clean,A  Night-only level model,34621,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34621,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34621,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34621,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34721,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34721,60,,,,,,,0.0,True,88.29985943947497,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34721,60,,,,,,,0.0,True,5.799859439474972,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34721,60,,,,,,,0.0,True,17.79985943947497,cusum
+E4_vent_humidity_clean,A  Night-only level model,34622,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34622,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34622,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34622,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34722,60,,,,,,,0.0,True,328.44295972175576,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34722,60,,,,,,,0.0,True,163.1096263884225,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34722,60,,,,,,,0.0,True,21.109626388422498,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34722,60,,,,,,,0.0,True,27.442959721755756,cusum
+E4_vent_humidity_clean,A  Night-only level model,34623,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34623,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34623,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34623,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34723,60,,,,,,,0.0,True,202.72697043394828,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34723,60,,,,,,,0.0,True,125.39363710061491,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34723,60,,,,,,,0.0,True,19.06030376728154,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34723,60,,,,,,,0.0,True,25.06030376728154,cusum
+E4_vent_humidity_clean,A  Night-only level model,34624,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34624,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34624,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34624,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34724,60,,,,,,,0.0,True,133.31594023830996,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34724,60,,,,,,,0.0,True,103.64927357164333,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34724,60,,,,,,,0.0,True,8.482606904976706,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34724,60,,,,,,,0.0,True,25.315940238309963,cusum
+E4_vent_humidity_clean,A  Night-only level model,34625,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34625,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34625,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34625,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34725,60,,,,,,,0.0,False,,
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34725,60,,,,,,,0.0,True,174.90976974103467,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34725,60,,,,,,,0.0,True,13.576436407701294,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34725,60,,,,,,,0.0,True,24.576436407701294,cusum
+E4_vent_humidity_clean,A  Night-only level model,34626,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34626,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34626,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34626,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34726,60,,,,,,,0.0,True,18.712392429249462,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34726,60,,,,,,,0.0,True,104.21239242924946,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34726,60,,,,,,,2.6233878193391247,True,18.712392429249462,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34726,60,,,,,,,0.0,True,27.045725762582833,cusum
+E4_vent_humidity_clean,A  Night-only level model,34627,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34627,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34627,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34627,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34727,60,,,,,,,2.4114921312008337,True,66.92967058264185,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34727,60,,,,,,,0.0,True,105.09633724930848,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34727,60,,,,,,,0.0,True,16.263003915975105,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34727,60,,,,,,,0.0,True,26.596337249308476,cusum
+E4_vent_humidity_clean,A  Night-only level model,34628,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34628,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34628,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34628,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34728,60,,,,,,,0.0,True,378.96125689271315,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34728,60,,,,,,,0.0,True,113.12792355937978,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34728,60,,,,,,,0.0,True,14.961256892713152,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34728,60,,,,,,,3.189998860554952,True,18.961256892713152,cusum
+E4_vent_humidity_clean,A  Night-only level model,34629,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"B  Static physics, calibrated once",34629,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"C  Adaptive, no guardrails",34629,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_clean,"D  Adaptive, all guardrails",34629,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_vent_humidity_leak,A  Night-only level model,34729,60,,,,,,,0.0,True,46.55934454531507,cusum
+E4_vent_humidity_leak,"B  Static physics, calibrated once",34729,60,,,,,,,0.0,True,76.89267787864833,cusum
+E4_vent_humidity_leak,"C  Adaptive, no guardrails",34729,60,,,,,,,0.0,True,18.89267787864833,cusum
+E4_vent_humidity_leak,"D  Adaptive, all guardrails",34729,60,,,,,,,0.0,True,24.89267787864833,cusum
+E4_seal_aging_clean,A  Night-only level model,34800,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34800,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34800,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34800,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34900,60,,,,,,,0.0,True,148.78176429219172,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34900,60,,,,,,,0.0,True,90.78176429219178,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34900,60,,,,,,,0.0,True,14.115097625525095,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34900,60,,,,,,,0.0,True,26.115097625525095,cusum
+E4_seal_aging_clean,A  Night-only level model,34801,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34801,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34801,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34801,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34901,60,,,,,,,0.0,True,65.45513224512456,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34901,60,,,,,,,0.0,True,83.45513224512456,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34901,60,,,,,,,0.0,True,14.621798911791188,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34901,60,,,,,,,0.0,True,25.45513224512456,cusum
+E4_seal_aging_clean,A  Night-only level model,34802,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34802,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34802,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34802,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34902,60,,,,,,,0.0,True,85.07366792004404,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34902,60,,,,,,,0.0,True,115.24033458671079,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34902,60,,,,,,,1.624330062444734,True,12.407001253377416,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34902,60,,,,,,,0.0,True,23.740334586710787,cusum
+E4_seal_aging_clean,A  Night-only level model,34803,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34803,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34803,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34803,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34903,60,,,,,,,0.0,True,625.2865076632236,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34903,60,,,,,,,0.0,True,104.11984099655712,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34903,60,,,,,,,3.6663581680233652,True,17.45317432989043,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34903,60,,,,,,,14.665432672093461,True,5.286507663223745,cusum
+E4_seal_aging_clean,A  Night-only level model,34804,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34804,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34804,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34804,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34904,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34904,60,,,,,,,0.0,True,80.80174484849061,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34904,60,,,,,,,0.0,True,18.635078181823985,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34904,60,,,,,,,0.0,True,24.635078181823985,cusum
+E4_seal_aging_clean,A  Night-only level model,34805,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34805,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34805,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34805,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34905,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34905,60,,,,,,,0.0,True,76.32264619309501,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34905,60,,,,,,,0.0,True,18.32264619309501,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34905,60,,,,,,,0.0,True,18.32264619309501,cusum
+E4_seal_aging_clean,A  Night-only level model,34806,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34806,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34806,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34806,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34906,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34906,60,,,,,,,0.0,True,89.88490019402468,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34906,60,,,,,,,0.0,True,31.88490019402468,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34906,60,,,,,,,0.0,True,31.88490019402468,cusum
+E4_seal_aging_clean,A  Night-only level model,34807,60,6.6,11.0,6.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34807,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34807,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34807,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34907,60,,,,,,,0.0,True,531.4227927956376,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34907,60,,,,,,,0.0,True,73.25612612897106,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34907,60,,,,,,,0.0,True,97.92279279563769,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34907,60,,,,,,,7.523096669362431,True,22.422792795637747,cusum
+E4_seal_aging_clean,A  Night-only level model,34808,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34808,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34808,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34808,60,2.4,4.0,1.7999999999999998,0.6,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34908,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34908,60,,,,,,,0.0,True,72.0503412321317,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34908,60,,,,,,,0.0,True,25.5503412321317,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34908,60,,,,,,,0.0,True,25.5503412321317,cusum
+E4_seal_aging_clean,A  Night-only level model,34809,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34809,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34809,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34809,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34909,60,,,,,,,0.0,True,121.8563260041634,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34909,60,,,,,,,0.0,True,76.52299267083004,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34909,60,,,,,,,0.0,True,19.522992670830035,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34909,60,,,,,,,0.0,True,19.522992670830035,cusum
+E4_seal_aging_clean,A  Night-only level model,34810,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34810,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34810,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34810,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34910,60,,,,,,,0.0,True,85.2122860822924,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34910,60,,,,,,,0.0,True,95.87895274895902,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34910,60,,,,,,,0.0,True,19.04561941562565,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34910,60,,,,,,,0.0,True,19.04561941562565,cusum
+E4_seal_aging_clean,A  Night-only level model,34811,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34811,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34811,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34811,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34911,60,,,,,,,3.267324575816965,True,48.80288483456309,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34911,60,,,,,,,0.0,True,86.30288483456309,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34911,60,,,,,,,3.267324575816965,True,21.302884834563088,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34911,60,,,,,,,0.0,True,21.302884834563088,cusum
+E4_seal_aging_clean,A  Night-only level model,34812,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34812,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34812,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34812,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34912,60,,,,,,,0.0,True,143.4547971168612,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34912,60,,,,,,,0.0,True,82.45479711686119,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34912,60,,,,,,,0.0,True,12.454797116861187,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34912,60,,,,,,,0.0,True,18.454797116861187,cusum
+E4_seal_aging_clean,A  Night-only level model,34813,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34813,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34813,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34813,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34913,60,,,,,,,0.0,True,143.03961094305316,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34913,60,,,,,,,1.8495032377588039,True,48.872944276386534,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34913,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34913,60,,,,,,,0.0,True,37.53961094305316,cusum
+E4_seal_aging_clean,A  Night-only level model,34814,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34814,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34814,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34814,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34914,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34914,60,,,,,,,0.0,True,109.79387426055177,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34914,60,,,,,,,0.0,True,13.627207593885089,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34914,60,,,,,,,0.0,True,25.62720759388509,cusum
+E4_seal_aging_clean,A  Night-only level model,34815,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34815,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34815,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34815,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34915,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34915,60,,,,,,,0.0,True,89.8420648916379,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34915,60,,,,,,,0.0,True,173.00873155830453,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34915,60,,,,,,,0.0,True,26.842064891637904,cusum
+E4_seal_aging_clean,A  Night-only level model,34816,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34816,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34816,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34816,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34916,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34916,60,,,,,,,0.0,True,75.59167285624034,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34916,60,,,,,,,0.0,True,6.758339522907022,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34916,60,,,,,,,0.0,True,18.758339522907022,cusum
+E4_seal_aging_clean,A  Night-only level model,34817,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34817,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34817,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34817,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34917,60,,,,,,,5.782223196888972,True,64.79417469712428,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34917,60,,,,,,,2.891111598444486,True,17.46084136379102,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34917,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34917,60,,,,,,,0.0,True,98.12750803045765,cusum
+E4_seal_aging_clean,A  Night-only level model,34818,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34818,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34818,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34818,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34918,60,,,,,,,0.0,True,885.6540469439533,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34918,60,,,,,,,0.0,True,88.4873802772866,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34918,60,,,,,,,0.0,True,20.987380277286604,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34918,60,,,,,,,0.0,True,27.487380277286604,cusum
+E4_seal_aging_clean,A  Night-only level model,34819,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34819,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34819,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34819,60,6.6,11.0,5.3999999999999995,0.0,1.2,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34919,60,,,,,,,0.0,True,202.76487506894108,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34919,60,,,,,,,0.0,True,69.5982084022744,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34919,60,,,,,,,0.0,True,15.76487506894108,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34919,60,,,,,,,0.0,True,21.76487506894108,cusum
+E4_seal_aging_clean,A  Night-only level model,34820,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34820,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34820,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34820,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34920,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34920,60,,,,,,,0.0,True,97.95670343604127,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34920,60,,,,,,,0.0,True,15.123370102707952,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34920,60,,,,,,,0.0,True,20.623370102707952,cusum
+E4_seal_aging_clean,A  Night-only level model,34821,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34821,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34821,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34821,60,0.6,1.0,0.0,0.6,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34921,60,,,,,,,0.0,True,390.1652065516282,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34921,60,,,,,,,0.0,True,115.16520655162827,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34921,60,,,,,,,0.0,True,8.665206551628273,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34921,60,,,,,,,0.0,True,19.998539884961588,cusum
+E4_seal_aging_clean,A  Night-only level model,34822,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34822,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34822,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34822,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34922,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34922,60,,,,,,,0.0,True,110.56217100118374,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34922,60,,,,,,,0.0,True,14.895504334517057,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34922,60,,,,,,,0.0,True,26.395504334517057,cusum
+E4_seal_aging_clean,A  Night-only level model,34823,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34823,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34823,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34823,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34923,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34923,60,,,,,,,0.0,True,88.41770783425613,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34923,60,,,,,,,0.0,True,21.58437450092282,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34923,60,,,,,,,0.0,True,26.751041167589506,cusum
+E4_seal_aging_clean,A  Night-only level model,34824,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34824,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34824,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34824,60,2.4,4.0,1.7999999999999998,0.6,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34924,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"B  Static physics, calibrated once",34924,60,,,,,,,0.0,True,94.40625802751669,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34924,60,,,,,,,0.0,True,10.73959136085,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34924,60,,,,,,,0.0,True,28.73959136085,cusum
+E4_seal_aging_clean,A  Night-only level model,34825,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34825,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34825,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34825,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34925,60,,,,,,,0.0,True,76.32722026761462,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34925,60,,,,,,,0.0,True,76.32722026761462,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34925,60,,,,,,,0.0,True,16.49388693428125,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34925,60,,,,,,,0.0,True,22.49388693428125,cusum
+E4_seal_aging_clean,A  Night-only level model,34826,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34826,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34826,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34826,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34926,60,,,,,,,0.0,True,154.82483598073475,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34926,60,,,,,,,0.0,True,137.158169314068,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34926,60,,,,,,,2.0328924022488373,True,21.991502647401376,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34926,60,,,,,,,0.0,True,27.991502647401376,cusum
+E4_seal_aging_clean,A  Night-only level model,34827,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34827,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34827,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34827,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34927,60,,,,,,,0.0,True,57.54164387566459,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34927,60,,,,,,,0.0,True,65.37497720899796,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34927,60,,,,,,,3.0622006601143164,True,17.208310542331276,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34927,60,,,,,,,0.0,True,11.208310542331276,cusum
+E4_seal_aging_clean,A  Night-only level model,34828,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34828,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34828,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34828,60,2.4,4.0,0.6,0.0,1.7999999999999998,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34928,60,,,,,,,8.214588354591449,True,6.719832721823423,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34928,60,,,,,,,0.0,True,85.0531660551568,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34928,60,,,,,,,0.0,True,22.38649938849005,cusum
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34928,60,,,,,,,0.0,True,28.38649938849005,cusum
+E4_seal_aging_clean,A  Night-only level model,34829,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"B  Static physics, calibrated once",34829,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"C  Adaptive, no guardrails",34829,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_seal_aging_clean,"D  Adaptive, all guardrails",34829,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_seal_aging_leak,A  Night-only level model,34929,60,,,,,,,0.0,True,128.3316794311835,cusum
+E4_seal_aging_leak,"B  Static physics, calibrated once",34929,60,,,,,,,0.0,True,64.33167943118349,cusum
+E4_seal_aging_leak,"C  Adaptive, no guardrails",34929,60,,,,,,,0.0,False,,
+E4_seal_aging_leak,"D  Adaptive, all guardrails",34929,60,,,,,,,0.0,True,148.8316794311835,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35000,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35000,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35000,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35000,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35100,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35100,60,,,,,,,0.0,True,108.0776673446212,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35100,60,,,,,,,0.0,True,17.411000677954576,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35100,60,,,,,,,0.0,True,21.911000677954576,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35001,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35001,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35001,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35001,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35101,60,,,,,,,0.0,True,62.731110130783634,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35101,60,,,,,,,0.0,True,79.73111013078358,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35101,60,,,,,,,0.0,True,7.064443464116948,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35101,60,,,,,,,0.0,True,20.89777679745032,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35002,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35002,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35002,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35002,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35102,60,,,,,,,0.0,True,104.35874361482104,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35102,60,,,,,,,0.0,True,237.85874361482104,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35102,60,,,,,,,0.0,True,22.192076948154295,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35102,60,,,,,,,0.0,True,39.35874361482104,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35003,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35003,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35003,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35003,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35103,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35103,60,,,,,,,0.0,True,85.33665318312637,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35103,60,,,,,,,0.0,True,18.003319849793,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35103,60,,,,,,,0.0,True,23.503319849793,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35004,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35004,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35004,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35004,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35104,60,,,,,,,0.0,True,143.60248347505103,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35104,60,,,,,,,0.0,True,186.60248347505103,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35104,60,,,,,,,0.0,True,660.2691501417178,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35104,60,,,,,,,0.0,True,46.9358168083844,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35005,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35005,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35005,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35005,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35105,60,,,,,,,0.0,True,624.5586780404344,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35105,60,,,,,,,0.0,True,132.3920113737678,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35105,60,,,,,,,0.0,True,21.892011373767787,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35105,60,,,,,,,0.0,True,27.892011373767787,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35006,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35006,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35006,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35006,60,1.7999999999999998,3.0,1.2,0.0,0.6,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35106,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35106,60,,,,,,,0.0,True,116.99957662185068,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35106,60,,,,,,,0.0,True,18.166243288517308,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35106,60,,,,,,,0.0,True,18.166243288517308,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35007,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35007,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35007,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35007,60,1.2,2.0,0.0,0.0,1.2,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35107,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35107,60,,,,,,,0.0,True,153.93060825191571,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35107,60,,,,,,,0.0,True,18.597274918582457,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35107,60,,,,,,,0.0,True,27.263941585249086,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35008,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35008,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35008,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35008,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35108,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35108,60,,,,,,,0.0,True,96.80549164900088,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35108,60,,,,,,,3.105306440136614,True,9.805491649000885,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35108,60,,,,,,,0.0,True,21.805491649000885,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35009,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35009,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35009,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35009,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35109,60,,,,,,,0.0,True,929.5474868399797,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35109,60,,,,,,,0.0,True,89.71415350664631,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35109,60,,,,,,,0.0,True,115.21415350664631,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35109,60,,,,,,,0.0,True,33.71415350664631,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35110,60,,,,,,,0.0,True,87.71751217789563,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35110,60,,,,,,,0.0,True,99.71751217789563,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35110,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35110,60,,,,,,,0.0,True,36.21751217789563,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35011,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35011,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35111,60,,,,,,,0.0,True,506.68528676135236,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35111,60,,,,,,,0.0,True,96.01862009468573,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35111,60,,,,,,,5.894486405688933,True,22.685286761352415,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35111,60,,,,,,,0.0,True,22.685286761352415,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35012,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35112,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35112,60,,,,,,,0.0,True,111.12431594889097,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35112,60,,,,,,,0.0,True,23.290982615557596,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35112,60,,,,,,,0.0,True,23.290982615557596,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35013,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35013,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35013,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35013,60,1.2,2.0,0.0,0.0,1.2,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35113,60,,,,,,,0.0,True,33.74103996786107,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35113,60,,,,,,,0.0,True,146.9077066345278,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35113,60,,,,,,,0.0,True,6.74103996786107,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35113,60,,,,,,,0.0,True,23.07437330119444,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35014,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35014,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35014,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35014,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35114,60,,,,,,,0.0,True,99.85212041375257,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35114,60,,,,,,,0.0,True,88.18545374708594,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35114,60,,,,,,,1.661610500330989,True,25.0187870804192,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35114,60,,,,,,,0.0,True,25.0187870804192,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35115,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35115,60,,,,,,,0.0,True,80.1388221928757,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35115,60,,,,,,,0.0,True,44.47215552620901,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35115,60,,,,,,,0.0,True,26.638822192875693,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35016,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35016,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35016,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35016,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35116,60,,,,,,,0.0,True,44.272036063535666,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35116,60,,,,,,,0.0,True,95.93870273020235,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35116,60,,,,,,,0.0,True,14.272036063535666,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35116,60,,,,,,,0.0,True,26.272036063535666,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35017,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35017,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35017,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35017,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35117,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35117,60,,,,,,,0.0,True,143.38561443007927,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35117,60,,,,,,,4.454328486119138,True,20.718947763412643,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35117,60,,,,,,,0.0,True,26.0522810967459,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35018,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35018,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35018,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35018,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35118,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35118,60,,,,,,,0.0,True,642.7260103270353,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35118,60,,,,,,,1.5386566442677811,True,29.559343660368768,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35118,60,,,,,,,1.5386566442677811,True,35.55934366036877,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35019,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35019,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35019,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35019,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35119,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35119,60,,,,,,,0.0,True,120.57722685946544,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35119,60,,,,,,,0.0,True,22.57722685946544,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35119,60,,,,,,,0.0,True,22.57722685946544,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35020,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35020,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35020,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35020,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35120,60,,,,,,,0.0,True,155.76549242093552,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35120,60,,,,,,,0.0,True,111.59882575426889,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35120,60,,,,,,,0.0,True,14.098825754268887,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35120,60,,,,,,,0.0,True,25.765492420935516,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35021,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35021,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35021,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35021,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35121,60,,,,,,,0.0,True,70.47169958270115,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35121,60,,,,,,,0.0,True,82.47169958270115,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35121,60,,,,,,,1.7376126102285445,True,11.30503291603452,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35121,60,,,,,,,0.0,True,17.30503291603452,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35122,60,,,,,,,0.0,True,209.8407744857327,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35122,60,,,,,,,0.0,True,97.34077448573271,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35122,60,,,,,,,0.0,True,25.007441152399338,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35122,60,,,,,,,0.0,True,25.007441152399338,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35023,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35023,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35023,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35023,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35123,60,,,,,,,0.0,True,595.747062740129,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35123,60,,,,,,,0.0,True,161.24706274012897,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35123,60,,,,,,,0.0,True,16.580396073462282,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35123,60,,,,,,,0.0,True,33.58039607346228,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35024,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35024,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35024,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35024,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35124,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35124,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35124,60,,,,,,,0.0,True,590.7650437439354,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35124,60,,,,,,,0.0,True,590.7650437439354,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35025,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35025,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35025,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35025,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35125,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35125,60,,,,,,,0.0,True,95.36991629083616,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35125,60,,,,,,,0.0,True,18.536582957502844,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35125,60,,,,,,,0.0,True,27.70324962416953,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35026,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35026,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35026,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35026,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35126,60,,,,,,,0.0,False,,
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35126,60,,,,,,,0.0,True,75.88165162825669,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35126,60,,,,,,,2.186555619350047,True,18.38165162825669,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35126,60,,,,,,,0.0,True,24.38165162825669,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35027,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35027,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35027,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35027,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35127,60,,,,,,,0.0,True,434.56808493919766,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35127,60,,,,,,,0.0,True,85.90141827253092,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35127,60,,,,,,,0.0,True,31.06808493919766,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35127,60,,,,,,,0.0,True,31.06808493919766,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35028,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35028,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35028,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35028,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35128,60,,,,,,,0.0,True,18.280031112360064,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35128,60,,,,,,,0.0,True,98.11336444569338,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35128,60,,,,,,,0.0,True,6.280031112360064,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35128,60,,,,,,,0.0,True,18.280031112360064,cusum
+E4_gauge_glitch_clean,A  Night-only level model,35029,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"B  Static physics, calibrated once",35029,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"C  Adaptive, no guardrails",35029,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_gauge_glitch_clean,"D  Adaptive, all guardrails",35029,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_gauge_glitch_leak,A  Night-only level model,35129,60,,,,,,,0.0,True,52.42447965995126,cusum
+E4_gauge_glitch_leak,"B  Static physics, calibrated once",35129,60,,,,,,,0.0,True,89.59114632661795,cusum
+E4_gauge_glitch_leak,"C  Adaptive, no guardrails",35129,60,,,,,,,3.7226837671862496,True,23.091146326617945,cusum
+E4_gauge_glitch_leak,"D  Adaptive, all guardrails",35129,60,,,,,,,0.0,True,23.091146326617945,cusum
+E4_wind_rain_clean,A  Night-only level model,35200,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35200,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35200,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35200,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35300,60,,,,,,,3.5753545714517756,True,512.9094096667582,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35300,60,,,,,,,0.0,True,167.24274300009165,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35300,60,,,,,,,1.7876772857258878,True,25.076076333424908,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35300,60,,,,,,,1.7876772857258878,True,31.076076333424908,cusum
+E4_wind_rain_clean,A  Night-only level model,35201,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35201,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35201,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35201,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35301,60,,,,,,,0.0,False,,
+E4_wind_rain_leak,"B  Static physics, calibrated once",35301,60,,,,,,,0.0,False,,
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35301,60,,,,,,,0.0,False,,
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35301,60,,,,,,,0.0,True,949.3428625785306,cusum
+E4_wind_rain_clean,A  Night-only level model,35202,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35202,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35202,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35202,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35302,60,,,,,,,0.0,True,175.09020238637322,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35302,60,,,,,,,0.0,True,76.42353571970654,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35302,60,,,,,,,0.0,True,23.423535719706535,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35302,60,,,,,,,0.0,True,29.423535719706535,cusum
+E4_wind_rain_clean,A  Night-only level model,35203,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35203,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35203,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35203,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35303,60,,,,,,,0.0,True,266.791133531285,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35303,60,,,,,,,0.0,True,235.45780019795166,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35303,60,,,,,,,3.3151038448364814,True,5.791133531285027,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35303,60,,,,,,,0.0,True,12.457800197951656,verify
+E4_wind_rain_clean,A  Night-only level model,35204,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35204,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35204,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35204,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35304,60,,,,,,,0.0,True,173.37936453984832,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35304,60,,,,,,,0.0,True,77.21269787318158,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35304,60,,,,,,,0.0,True,21.379364539848325,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35304,60,,,,,,,0.0,True,26.379364539848325,cusum
+E4_wind_rain_clean,A  Night-only level model,35205,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35205,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35205,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35205,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35305,60,,,,,,,0.0,True,22.432415684628154,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35305,60,,,,,,,0.0,True,102.93241568462815,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35305,60,,,,,,,0.0,True,22.432415684628154,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35305,60,,,,,,,0.0,True,22.432415684628154,cusum
+E4_wind_rain_clean,A  Night-only level model,35206,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35206,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35206,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35206,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35306,60,,,,,,,0.0,False,,
+E4_wind_rain_leak,"B  Static physics, calibrated once",35306,60,,,,,,,0.0,True,95.91641582855459,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35306,60,,,,,,,0.0,True,4.416415828554591,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35306,60,,,,,,,0.0,True,18.249749161887962,cusum
+E4_wind_rain_clean,A  Night-only level model,35207,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35207,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35207,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35207,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35307,60,,,,,,,0.0,True,447.4185803594846,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35307,60,,,,,,,0.0,True,140.751913692818,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35307,60,,,,,,,2.8809823807214037,True,106.58524702615136,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35307,60,,,,,,,0.0,True,22.751913692817993,cusum
+E4_wind_rain_clean,A  Night-only level model,35208,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35208,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35208,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35208,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35308,60,,,,,,,1.540425102261855,True,40.76322138211424,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35308,60,,,,,,,0.0,True,85.42988804878087,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35308,60,,,,,,,3.08085020452371,True,12.263221382114239,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35308,60,,,,,,,0.0,True,12.263221382114239,cusum
+E4_wind_rain_clean,A  Night-only level model,35209,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35209,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35209,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35209,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35309,60,,,,,,,0.0,True,56.08153116586243,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35309,60,,,,,,,0.0,True,77.24819783252917,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35309,60,,,,,,,0.0,True,28.748197832529172,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35309,60,,,,,,,0.0,True,28.748197832529172,cusum
+E4_wind_rain_clean,A  Night-only level model,35210,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35210,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35210,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35210,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35310,60,,,,,,,0.0,True,136.55161388566523,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35310,60,,,,,,,0.0,True,115.71828055233186,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35310,60,,,,,,,2.0832425966592005,True,19.718280552331862,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35310,60,,,,,,,0.0,True,25.551613885665233,cusum
+E4_wind_rain_clean,A  Night-only level model,35211,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35211,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35211,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35211,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35311,60,,,,,,,0.0,True,53.953460283521,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35311,60,,,,,,,0.0,True,175.62012695018763,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35311,60,,,,,,,0.0,False,,
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35311,60,,,,,,,0.0,True,31.786793616854368,cusum
+E4_wind_rain_clean,A  Night-only level model,35212,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35212,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35212,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35212,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35312,60,,,,,,,0.0,True,157.36306794608333,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35312,60,,,,,,,0.0,True,133.52973461275008,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35312,60,,,,,,,3.214499066707442,True,11.863067946083333,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35312,60,,,,,,,0.0,True,23.363067946083333,cusum
+E4_wind_rain_clean,A  Night-only level model,35213,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35213,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35213,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35213,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35313,60,,,,,,,0.0,False,,
+E4_wind_rain_leak,"B  Static physics, calibrated once",35313,60,,,,,,,0.0,True,112.61347958366207,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35313,60,,,,,,,6.069350413927167,True,3.1134795836620697,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35313,60,,,,,,,2.023116804642389,True,27.11347958366207,cusum
+E4_wind_rain_clean,A  Night-only level model,35214,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35214,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35214,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35214,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35314,60,,,,,,,0.0,True,77.89002390378369,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35314,60,,,,,,,0.0,True,239.55669057045031,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35314,60,,,,,,,3.021697769665557,True,29.390023903783685,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35314,60,,,,,,,0.0,True,38.890023903783685,cusum
+E4_wind_rain_clean,A  Night-only level model,35215,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35215,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35215,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35215,60,4.2,7.0,3.5999999999999996,0.0,0.6,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35315,60,,,,,,,0.0,True,58.14209805381722,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35315,60,,,,,,,0.0,True,91.64209805381722,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35315,60,,,,,,,0.0,True,15.30876472048385,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35315,60,,,,,,,0.0,True,21.30876472048385,cusum
+E4_wind_rain_clean,A  Night-only level model,35216,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35216,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35216,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35216,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35316,60,,,,,,,0.0,True,192.21539640620313,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35316,60,,,,,,,0.0,True,71.5487297395365,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35316,60,,,,,,,0.0,True,13.382063072869812,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35316,60,,,,,,,0.0,True,24.715396406203126,cusum
+E4_wind_rain_clean,A  Night-only level model,35217,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35217,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35217,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35217,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35317,60,,,,,,,0.0,True,233.98303658093153,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35317,60,,,,,,,0.0,True,81.14970324759827,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35317,60,,,,,,,0.0,True,17.983036580931582,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35317,60,,,,,,,0.0,True,23.983036580931582,cusum
+E4_wind_rain_clean,A  Night-only level model,35218,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35218,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35218,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35218,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35318,60,,,,,,,0.0,True,478.95608386754475,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35318,60,,,,,,,0.0,True,115.62275053421149,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35318,60,,,,,,,3.281099673662285,True,19.28941720087812,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35318,60,,,,,,,0.0,True,19.28941720087812,cusum
+E4_wind_rain_clean,A  Night-only level model,35219,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35219,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35219,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35219,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35319,60,,,,,,,0.0,True,608.9666411653501,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35319,60,,,,,,,0.0,True,171.29997449868347,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35319,60,,,,,,,11.040121588790052,True,19.13330783201684,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35319,60,,,,,,,5.520060794395026,True,25.13330783201684,cusum
+E4_wind_rain_clean,A  Night-only level model,35220,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35220,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35220,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35220,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35320,60,,,,,,,0.0,True,577.6043274518192,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35320,60,,,,,,,0.0,True,565.6043274518192,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35320,60,,,,,,,1.9776832768607249,True,19.43766078515273,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35320,60,,,,,,,0.0,True,32.27099411848599,cusum
+E4_wind_rain_clean,A  Night-only level model,35221,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35221,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35221,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35221,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35321,60,,,,,,,0.0,True,53.49185917688703,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35321,60,,,,,,,0.0,True,118.99185917688703,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35321,60,,,,,,,0.0,True,537.1585258435535,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35321,60,,,,,,,0.0,True,37.15852584355366,cusum
+E4_wind_rain_clean,A  Night-only level model,35222,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35222,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35222,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35222,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35322,60,,,,,,,0.0,False,,
+E4_wind_rain_leak,"B  Static physics, calibrated once",35322,60,,,,,,,0.0,True,277.0476170208488,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35322,60,,,,,,,0.0,True,15.547617020848804,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35322,60,,,,,,,0.0,True,21.380950354182175,cusum
+E4_wind_rain_clean,A  Night-only level model,35223,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35223,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35223,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35223,60,4.2,7.0,3.0,0.0,1.2,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35323,60,,,,,,,0.0,True,433.3143210550561,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35323,60,,,,,,,0.0,True,450.64765438838947,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35323,60,,,,,,,0.0,True,26.64765438838947,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35323,60,,,,,,,8.371167703663449,True,45.314321055056155,cusum
+E4_wind_rain_clean,A  Night-only level model,35224,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35224,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35224,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35224,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35324,60,,,,,,,0.0,True,43.83859307330397,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35324,60,,,,,,,0.0,True,162.17192640663723,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35324,60,,,,,,,9.37125351642101,True,22.671926406637283,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35324,60,,,,,,,0.0,True,27.005259739970597,cusum
+E4_wind_rain_clean,A  Night-only level model,35225,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35225,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35225,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35225,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35325,60,,,,,,,14.87145856437532,True,95.84756309211082,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35325,60,,,,,,,0.0,True,105.84756309211082,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35325,60,,,,,,,3.71786464109383,True,6.180896425444189,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35325,60,,,,,,,0.0,True,6.180896425444189,cusum
+E4_wind_rain_clean,A  Night-only level model,35226,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35226,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35226,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35226,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35326,60,,,,,,,0.0,True,64.90209033900294,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35326,60,,,,,,,0.0,True,81.90209033900294,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35326,60,,,,,,,0.0,True,17.90209033900294,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35326,60,,,,,,,0.0,True,23.90209033900294,cusum
+E4_wind_rain_clean,A  Night-only level model,35227,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35227,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35227,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35227,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35327,60,,,,,,,2.5771406634629974,False,,
+E4_wind_rain_leak,"B  Static physics, calibrated once",35327,60,,,,,,,0.0,True,155.78727142926823,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35327,60,,,,,,,5.154281326925995,True,68.78727142926823,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35327,60,,,,,,,2.5771406634629974,True,68.78727142926823,cusum
+E4_wind_rain_clean,A  Night-only level model,35228,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35228,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35228,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35228,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35328,60,,,,,,,0.0,False,,
+E4_wind_rain_leak,"B  Static physics, calibrated once",35328,60,,,,,,,0.0,True,175.84029675807363,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35328,60,,,,,,,8.5888258905131,True,48.00696342474026,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35328,60,,,,,,,4.29441294525655,True,54.00696342474026,cusum
+E4_wind_rain_clean,A  Night-only level model,35229,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"B  Static physics, calibrated once",35229,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"C  Adaptive, no guardrails",35229,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_wind_rain_clean,"D  Adaptive, all guardrails",35229,60,2.4,4.0,1.7999999999999998,0.0,0.6,50.0,,,,
+E4_wind_rain_leak,A  Night-only level model,35329,60,,,,,,,1.7400266647122784,True,479.04657097986365,cusum
+E4_wind_rain_leak,"B  Static physics, calibrated once",35329,60,,,,,,,0.0,True,106.21323764653039,cusum
+E4_wind_rain_leak,"C  Adaptive, no guardrails",35329,60,,,,,,,1.7400266647122784,True,21.546570979863645,cusum
+E4_wind_rain_leak,"D  Adaptive, all guardrails",35329,60,,,,,,,1.7400266647122784,True,33.046570979863645,verify
+E4_all_clean,A  Night-only level model,35400,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35400,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35400,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35400,60,3.5999999999999996,6.0,1.2,0.0,2.4,50.0,,,,
+E4_all_leak,A  Night-only level model,35500,60,,,,,,,7.105789927450282,True,157.68920292885855,cusum
+E4_all_leak,"B  Static physics, calibrated once",35500,60,,,,,,,0.0,True,674.6892029288584,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35500,60,,,,,,,11.842983212417138,True,24.855869595525178,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35500,60,,,,,,,0.0,True,24.855869595525178,cusum
+E4_all_clean,A  Night-only level model,35401,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35401,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35401,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35401,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35501,60,,,,,,,0.0,False,,
+E4_all_leak,"B  Static physics, calibrated once",35501,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35501,60,,,,,,,3.280370960370238,True,569.3459617225514,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35501,60,,,,,,,0.0,True,17.845961722551408,cusum
+E4_all_clean,A  Night-only level model,35402,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35402,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35402,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35402,60,15.0,25.0,12.6,0.0,2.4,50.0,,,,
+E4_all_leak,A  Night-only level model,35502,60,,,,,,,0.0,True,3.3892268781777943,cusum
+E4_all_leak,"B  Static physics, calibrated once",35502,60,,,,,,,2.9965360070167253,True,15.222560211511166,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35502,60,,,,,,,0.0,True,526.7225602115111,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35502,60,,,,,,,8.989608021050177,True,104.05589354484442,cusum
+E4_all_clean,A  Night-only level model,35403,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35403,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35403,60,6.6,11.0,6.6,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35403,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35503,60,,,,,,,6.666711016045951,True,40.50215536549479,cusum
+E4_all_leak,"B  Static physics, calibrated once",35503,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35503,60,,,,,,,4.4444740106972995,True,258.5021553654948,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35503,60,,,,,,,2.2222370053486498,True,837.5021553654948,cusum
+E4_all_clean,A  Night-only level model,35404,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35404,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35404,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35404,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35504,60,,,,,,,2.618782730886118,True,14.896435549387093,cusum
+E4_all_leak,"B  Static physics, calibrated once",35504,60,,,,,,,0.0,True,37.063102216053835,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35504,60,,,,,,,0.0,False,,
+E4_all_leak,"D  Adaptive, all guardrails",35504,60,,,,,,,0.0,True,82.06310221605384,cusum
+E4_all_clean,A  Night-only level model,35405,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35405,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35405,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35405,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35505,60,,,,,,,3.4400452978979934,True,34.03376380733056,cusum
+E4_all_leak,"B  Static physics, calibrated once",35505,60,,,,,,,0.0,True,86.0337638073305,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35505,60,,,,,,,3.4400452978979934,True,22.03376380733056,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35505,60,,,,,,,0.0,True,22.03376380733056,cusum
+E4_all_clean,A  Night-only level model,35406,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35406,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35406,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35406,60,3.0,5.0,1.2,0.0,1.7999999999999998,50.0,,,,
+E4_all_leak,A  Night-only level model,35506,60,,,,,,,0.0,True,38.82561874130437,cusum
+E4_all_leak,"B  Static physics, calibrated once",35506,60,,,,,,,0.0,True,1031.1589520746377,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35506,60,,,,,,,0.0,True,26.825618741304368,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35506,60,,,,,,,0.0,True,58.15895207463774,cusum
+E4_all_clean,A  Night-only level model,35407,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35407,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35407,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35407,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35507,60,,,,,,,0.0,False,,
+E4_all_leak,"B  Static physics, calibrated once",35507,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35507,60,,,,,,,18.273248973560737,True,25.059226185391253,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35507,60,,,,,,,0.0,True,35.05922618539125,cusum
+E4_all_clean,A  Night-only level model,35408,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35408,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35408,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35408,60,8.4,14.0,6.0,0.0,2.4,50.0,,,,
+E4_all_leak,A  Night-only level model,35508,60,,,,,,,2.4453495969488697,True,235.89690555287848,cusum
+E4_all_leak,"B  Static physics, calibrated once",35508,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35508,60,,,,,,,12.226747984744346,True,37.06357221954522,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35508,60,,,,,,,0.0,True,63.23023888621185,cusum
+E4_all_clean,A  Night-only level model,35409,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35409,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35409,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35409,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35509,60,,,,,,,0.0,True,312.56340209946086,cusum
+E4_all_leak,"B  Static physics, calibrated once",35509,60,,,,,,,0.0,True,186.7300687661275,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35509,60,,,,,,,0.0,True,30.730068766127488,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35509,60,,,,,,,0.0,True,30.730068766127488,cusum
+E4_all_clean,A  Night-only level model,35410,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35410,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35410,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35410,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35510,60,,,,,,,0.0,False,,
+E4_all_leak,"B  Static physics, calibrated once",35510,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35510,60,,,,,,,2.650301930519211,True,11.999506140942117,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35510,60,,,,,,,0.0,True,55.99950614094212,cusum
+E4_all_clean,A  Night-only level model,35411,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35411,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35411,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35411,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35511,60,,,,,,,9.17021194693456,True,39.636490228774505,cusum
+E4_all_leak,"B  Static physics, calibrated once",35511,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35511,60,,,,,,,13.755317920401838,True,22.136490228774505,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35511,60,,,,,,,0.0,True,49.636490228774505,cusum
+E4_all_clean,A  Night-only level model,35412,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35412,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35412,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35412,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35512,60,,,,,,,0.0,True,96.13944757202944,cusum
+E4_all_leak,"B  Static physics, calibrated once",35512,60,,,,,,,0.0,True,78.97278090536281,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35512,60,,,,,,,0.0,True,18.47278090536281,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35512,60,,,,,,,0.0,True,14.63944757202944,cusum
+E4_all_clean,A  Night-only level model,35413,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35413,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35413,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35413,60,4.8,8.0,3.0,0.0,1.7999999999999998,50.0,,,,
+E4_all_leak,A  Night-only level model,35513,60,,,,,,,0.0,True,188.63788049310995,cusum
+E4_all_leak,"B  Static physics, calibrated once",35513,60,,,,,,,0.0,True,101.97121382644332,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35513,60,,,,,,,4.149167500543018,True,13.637880493109947,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35513,60,,,,,,,0.0,True,25.637880493109947,cusum
+E4_all_clean,A  Night-only level model,35414,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35414,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35414,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35414,60,1.2,2.0,0.6,0.0,0.6,50.0,,,,
+E4_all_leak,A  Night-only level model,35514,60,,,,,,,0.0,False,,
+E4_all_leak,"B  Static physics, calibrated once",35514,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35514,60,,,,,,,5.376629514323884,True,21.42799483786723,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35514,60,,,,,,,0.0,True,45.09466150453386,verify
+E4_all_clean,A  Night-only level model,35415,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35415,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35415,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35415,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35515,60,,,,,,,0.0,True,89.20256528351604,cusum
+E4_all_leak,"B  Static physics, calibrated once",35515,60,,,,,,,0.0,True,95.20256528351604,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35515,60,,,,,,,0.0,True,23.03589861684941,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35515,60,,,,,,,0.0,True,29.03589861684941,cusum
+E4_all_clean,A  Night-only level model,35416,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35416,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35416,60,6.0,10.0,6.0,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35416,60,0.6,1.0,0.0,0.0,0.6,50.0,,,,
+E4_all_leak,A  Night-only level model,35516,60,,,,,,,0.0,False,,
+E4_all_leak,"B  Static physics, calibrated once",35516,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35516,60,,,,,,,4.64631608269306,True,29.782237463555134,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35516,60,,,,,,,0.0,True,123.94890413022176,cusum
+E4_all_clean,A  Night-only level model,35417,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35417,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35417,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35417,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35517,60,,,,,,,0.0,True,17.97090138178362,cusum
+E4_all_leak,"B  Static physics, calibrated once",35517,60,,,,,,,0.0,True,125.47090138178362,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35517,60,,,,,,,0.0,True,27.47090138178362,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35517,60,,,,,,,0.0,True,23.97090138178362,cusum
+E4_all_clean,A  Night-only level model,35418,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35418,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35418,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35418,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35518,60,,,,,,,1.6731183373202885,True,52.99915795565403,cusum
+E4_all_leak,"B  Static physics, calibrated once",35518,60,,,,,,,0.0,True,92.8324912889874,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35518,60,,,,,,,3.346236674640577,True,15.832491288987399,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35518,60,,,,,,,1.6731183373202885,True,21.8324912889874,cusum
+E4_all_clean,A  Night-only level model,35419,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35419,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35419,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35419,60,4.2,7.0,3.5999999999999996,0.0,0.6,50.0,,,,
+E4_all_leak,A  Night-only level model,35519,60,,,,,,,0.0,True,101.96180200162655,cusum
+E4_all_leak,"B  Static physics, calibrated once",35519,60,,,,,,,0.0,True,145.96180200162655,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35519,60,,,,,,,0.0,True,21.96180200162661,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35519,60,,,,,,,0.0,True,27.96180200162661,cusum
+E4_all_clean,A  Night-only level model,35420,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35420,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35420,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35420,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35520,60,,,,,,,0.0,True,185.10777974024018,cusum
+E4_all_leak,"B  Static physics, calibrated once",35520,60,,,,,,,0.0,True,417.44111307357355,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35520,60,,,,,,,3.1967953392215795,True,290.6077797402402,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35520,60,,,,,,,0.0,True,83.77444640690692,cusum
+E4_all_clean,A  Night-only level model,35421,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35421,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35421,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35421,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35521,60,,,,,,,0.0,True,398.19434657784944,cusum
+E4_all_leak,"B  Static physics, calibrated once",35521,60,,,,,,,0.0,True,581.6943465778495,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35521,60,,,,,,,0.0,True,3.8610132445161867,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35521,60,,,,,,,3.484337642692649,True,3.8610132445161867,cusum
+E4_all_clean,A  Night-only level model,35422,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35422,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35422,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35422,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35522,60,,,,,,,0.0,True,809.2124058661306,cusum
+E4_all_leak,"B  Static physics, calibrated once",35522,60,,,,,,,0.0,True,127.3790725327973,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35522,60,,,,,,,0.0,True,30.379072532797352,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35522,60,,,,,,,0.0,True,36.37907253279735,cusum
+E4_all_clean,A  Night-only level model,35423,60,12.6,21.0,12.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35423,60,12.0,20.0,12.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35423,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35423,60,3.0,5.0,0.6,2.4,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35523,60,,,,,,,0.0,True,71.66829065934326,cusum
+E4_all_leak,"B  Static physics, calibrated once",35523,60,,,,,,,0.0,True,116.66829065934326,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35523,60,,,,,,,5.330075222713612,True,21.168290659343256,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35523,60,,,,,,,0.0,True,15.168290659343256,cusum
+E4_all_clean,A  Night-only level model,35424,60,6.0,10.0,6.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35424,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35424,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35424,60,1.2,2.0,0.6,0.6,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35524,60,,,,,,,0.0,True,81.23014513019143,cusum
+E4_all_leak,"B  Static physics, calibrated once",35524,60,,,,,,,0.0,True,98.73014513019143,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35524,60,,,,,,,3.0373134706341496,True,13.730145130191431,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35524,60,,,,,,,0.0,True,26.23014513019143,cusum
+E4_all_clean,A  Night-only level model,35425,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35425,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35425,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35425,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35525,60,,,,,,,0.0,True,1006.6386811553141,cusum
+E4_all_leak,"B  Static physics, calibrated once",35525,60,,,,,,,0.0,False,,
+E4_all_leak,"C  Adaptive, no guardrails",35525,60,,,,,,,4.78316372569604,True,7.138681155314202,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35525,60,,,,,,,0.0,True,109.1386811553142,cusum
+E4_all_clean,A  Night-only level model,35426,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35426,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35426,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35426,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35526,60,,,,,,,0.0,True,56.5049798590436,cusum
+E4_all_leak,"B  Static physics, calibrated once",35526,60,,,,,,,0.0,True,130.5049798590436,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35526,60,,,,,,,0.0,True,22.17164652571023,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35526,60,,,,,,,0.0,True,28.17164652571023,cusum
+E4_all_clean,A  Night-only level model,35427,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35427,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35427,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35427,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35527,60,,,,,,,0.0,True,59.10294460029405,cusum
+E4_all_leak,"B  Static physics, calibrated once",35527,60,,,,,,,0.0,True,111.76961126696068,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35527,60,,,,,,,3.890551816210494,True,21.60294460029405,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35527,60,,,,,,,0.0,True,27.769611266960737,cusum
+E4_all_clean,A  Night-only level model,35428,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35428,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35428,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35428,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35528,60,,,,,,,0.0,True,294.18400391702323,cusum
+E4_all_leak,"B  Static physics, calibrated once",35528,60,,,,,,,0.0,True,720.85067058369,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35528,60,,,,,,,1.8767138237812613,True,57.017337250356604,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35528,60,,,,,,,5.630141471343785,True,63.18400391702323,verify
+E4_all_clean,A  Night-only level model,35429,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E4_all_clean,"B  Static physics, calibrated once",35429,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E4_all_clean,"C  Adaptive, no guardrails",35429,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E4_all_clean,"D  Adaptive, all guardrails",35429,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E4_all_leak,A  Night-only level model,35529,60,,,,,,,0.0,True,93.37385651307204,cusum
+E4_all_leak,"B  Static physics, calibrated once",35529,60,,,,,,,0.0,True,901.873856513072,cusum
+E4_all_leak,"C  Adaptive, no guardrails",35529,60,,,,,,,6.458572743964842,True,9.207189846405413,cusum
+E4_all_leak,"D  Adaptive, all guardrails",35529,60,,,,,,,0.0,True,37.20718984640541,cusum

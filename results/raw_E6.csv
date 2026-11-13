@@ -1,0 +1,561 @@
+job,name,seed,days,fa30,fa_total,fa_cusum,fa_frozen,fa_verify,days_eval,fa_pre,detected,delay_h,first_channel
+E6_clean,A  Night-only level model,35000,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35000,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35000,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35000,60,1.7999999999999998,3.0,1.2,0.0,0.6,50.0,,,,
+E6_clean,A  Night-only level model,35001,60,6.0,10.0,6.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35001,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35001,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35001,60,0.6,1.0,0.0,0.6,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35002,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35002,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35002,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35002,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35003,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35003,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35003,60,6.6,11.0,6.6,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35003,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35004,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35004,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35004,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35004,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35005,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35005,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35005,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35005,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35006,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35006,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35006,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35006,60,0.6,1.0,0.0,0.0,0.6,50.0,,,,
+E6_clean,A  Night-only level model,35007,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35007,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35007,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35007,60,6.6,11.0,4.2,0.0,2.4,50.0,,,,
+E6_clean,A  Night-only level model,35008,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35008,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35008,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35008,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35009,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35009,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35009,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35009,60,1.2,2.0,0.6,0.0,0.6,50.0,,,,
+E6_clean,A  Night-only level model,35010,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35010,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35010,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35010,60,0.6,1.0,0.0,0.6,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35011,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35011,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35012,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35012,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35013,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35013,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35013,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35013,60,7.800000000000001,13.0,5.3999999999999995,0.0,2.4,50.0,,,,
+E6_clean,A  Night-only level model,35014,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35014,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35014,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35014,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35015,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35015,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35016,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35016,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35016,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35016,60,0.6,1.0,0.0,0.0,0.6,50.0,,,,
+E6_clean,A  Night-only level model,35017,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35017,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35017,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35017,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35018,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35018,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35018,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35018,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35019,60,6.6,11.0,6.6,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35019,60,6.0,10.0,6.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35019,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35019,60,0.6,1.0,0.0,0.6,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35020,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35020,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35020,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35020,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35021,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35021,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35021,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35021,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35022,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35022,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35023,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35023,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35023,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35023,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35024,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35024,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35024,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35024,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35025,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35025,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35025,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35025,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35026,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35026,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35026,60,6.0,10.0,6.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35026,60,4.8,8.0,2.4,0.0,2.4,50.0,,,,
+E6_clean,A  Night-only level model,35027,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35027,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35027,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35027,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35028,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35028,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35028,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35028,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35029,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35029,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35029,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35029,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35030,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35030,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35030,60,5.3999999999999995,9.0,5.3999999999999995,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35030,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35031,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35031,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35031,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35031,60,3.0,5.0,2.4,0.0,0.6,50.0,,,,
+E6_clean,A  Night-only level model,35032,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35032,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35032,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35032,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35033,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35033,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35033,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35033,60,3.0,5.0,0.6,0.0,2.4,50.0,,,,
+E6_clean,A  Night-only level model,35034,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35034,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35034,60,9.0,15.0,9.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35034,60,1.2,2.0,0.6,0.0,0.6,50.0,,,,
+E6_clean,A  Night-only level model,35035,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35035,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35035,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35035,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35036,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35036,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35036,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35036,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35037,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35037,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35037,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35037,60,6.6,11.0,4.2,0.0,2.4,50.0,,,,
+E6_clean,A  Night-only level model,35038,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35038,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35038,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35038,60,0.6,1.0,0.0,0.0,0.6,50.0,,,,
+E6_clean,A  Night-only level model,35039,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35039,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35039,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35039,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35040,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35040,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35040,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35040,60,3.5999999999999996,6.0,2.4,0.0,1.2,50.0,,,,
+E6_clean,A  Night-only level model,35041,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35041,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35041,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35041,60,6.0,10.0,4.8,0.0,1.2,50.0,,,,
+E6_clean,A  Night-only level model,35042,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35042,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35042,60,4.8,8.0,4.8,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35042,60,5.3999999999999995,9.0,3.0,0.0,2.4,50.0,,,,
+E6_clean,A  Night-only level model,35043,60,1.2,2.0,1.2,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35043,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35043,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35043,60,3.5999999999999996,6.0,1.2,0.0,2.4,50.0,,,,
+E6_clean,A  Night-only level model,35044,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35044,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35044,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35044,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35045,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35045,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35045,60,3.0,5.0,3.0,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35045,60,0.6,1.0,0.6,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35046,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35046,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35046,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35046,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35047,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35047,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35047,60,1.7999999999999998,3.0,1.7999999999999998,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35047,60,2.4,4.0,2.4,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35048,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35048,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35048,60,3.5999999999999996,6.0,3.5999999999999996,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35048,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,A  Night-only level model,35049,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"B  Static physics, calibrated once",35049,60,0.0,0.0,0.0,0.0,0.0,50.0,,,,
+E6_clean,"C  Adaptive, no guardrails",35049,60,4.2,7.0,4.2,0.0,0.0,50.0,,,,
+E6_clean,"D  Adaptive, all guardrails",35049,60,4.2,7.0,2.4,0.0,1.7999999999999998,50.0,,,,
+E6_ramp_0.05,A  Night-only level model,35100,60,,,,,,,2.60628138584285,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35100,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35100,60,,,,,,,5.2125627716857,True,95.24433401128795,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35100,60,,,,,,,0.0,True,102.74433401128795,cusum
+E6_ramp_0.05,A  Night-only level model,35101,60,,,,,,,3.571389186897092,True,138.39777679745032,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35101,60,,,,,,,0.0,True,154.39777679745032,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35101,60,,,,,,,0.0,True,21.89777679745032,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35101,60,,,,,,,0.0,True,33.56444346411695,cusum
+E6_ramp_0.05,A  Night-only level model,35102,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35102,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35102,60,,,,,,,6.3838098583054235,True,111.52541028148767,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35102,60,,,,,,,0.0,True,117.52541028148767,cusum
+E6_ramp_0.05,A  Night-only level model,35103,60,,,,,,,1.6302009328805198,True,114.503319849793,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35103,60,,,,,,,0.0,True,729.6699865164596,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35103,60,,,,,,,6.520803731522079,True,122.66998651645963,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35103,60,,,,,,,1.6302009328805198,True,33.33665318312637,cusum
+E6_ramp_0.05,A  Night-only level model,35104,60,,,,,,,0.0,True,143.26915014171777,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35104,60,,,,,,,0.0,True,269.60248347505103,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35104,60,,,,,,,0.0,True,346.9358168083844,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35104,60,,,,,,,0.0,True,43.76915014171777,cusum
+E6_ramp_0.05,A  Night-only level model,35105,60,,,,,,,0.0,True,406.5586780404344,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35105,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35105,60,,,,,,,12.50183365342693,True,197.05867804043442,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35105,60,,,,,,,4.167277884475643,True,61.05867804043447,cusum
+E6_ramp_0.05,A  Night-only level model,35106,60,,,,,,,2.2700968120565834,True,144.33290995518405,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35106,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35106,60,,,,,,,2.2700968120565834,True,757.1662432885173,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35106,60,,,,,,,0.0,False,,
+E6_ramp_0.05,A  Night-only level model,35107,60,,,,,,,0.0,True,43.09727491858246,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35107,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35107,60,,,,,,,9.28228342290918,True,47.09727491858246,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35107,60,,,,,,,0.0,True,57.430608251915714,cusum
+E6_ramp_0.05,A  Night-only level model,35108,60,,,,,,,0.0,True,781.6388249823342,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35108,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35108,60,,,,,,,9.315919320409842,True,2.138824982334256,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35108,60,,,,,,,0.0,True,50.805491649000885,cusum
+E6_ramp_0.05,A  Night-only level model,35109,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35109,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35109,60,,,,,,,4.692005267122499,True,738.8808201733129,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35109,60,,,,,,,0.0,True,750.7141535066462,cusum
+E6_ramp_0.05,A  Night-only level model,35110,60,,,,,,,0.0,True,231.21751217789557,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35110,60,,,,,,,0.0,True,279.71751217789557,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35110,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"D  Adaptive, all guardrails",35110,60,,,,,,,0.0,True,205.71751217789557,cusum
+E6_ramp_0.05,A  Night-only level model,35111,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35111,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35111,60,,,,,,,0.0,True,34.3519534280191,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35111,60,,,,,,,0.0,True,113.01862009468573,cusum
+E6_ramp_0.05,A  Night-only level model,35112,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35112,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35112,60,,,,,,,0.0,True,21.790982615557596,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35112,60,,,,,,,0.0,True,45.290982615557596,cusum
+E6_ramp_0.05,A  Night-only level model,35113,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35113,60,,,,,,,0.0,True,290.74103996786107,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35113,60,,,,,,,2.050742820636369,True,48.90770663452781,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35113,60,,,,,,,2.050742820636369,True,74.40770663452781,cusum
+E6_ramp_0.05,A  Night-only level model,35114,60,,,,,,,0.0,True,481.68545374708594,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35114,60,,,,,,,0.0,True,223.85212041375257,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35114,60,,,,,,,1.661610500330989,True,40.685453747085944,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35114,60,,,,,,,0.0,True,40.685453747085944,cusum
+E6_ramp_0.05,A  Night-only level model,35115,60,,,,,,,0.0,True,117.13882219287564,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35115,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35115,60,,,,,,,0.0,True,52.97215552620901,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35115,60,,,,,,,4.1097177948843315,True,86.6388221928757,cusum
+E6_ramp_0.05,A  Night-only level model,35116,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35116,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35116,60,,,,,,,16.955188690243858,True,35.272036063535666,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35116,60,,,,,,,0.0,True,277.60536939686904,cusum
+E6_ramp_0.05,A  Night-only level model,35117,60,,,,,,,2.227164243059569,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35117,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35117,60,,,,,,,6.681492729178707,True,240.71894776341264,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35117,60,,,,,,,0.0,True,438.3856144300793,cusum
+E6_ramp_0.05,A  Night-only level model,35118,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35118,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35118,60,,,,,,,1.5386566442677811,True,309.7260103270354,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35118,60,,,,,,,0.0,True,105.7260103270354,cusum
+E6_ramp_0.05,A  Night-only level model,35119,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35119,60,,,,,,,0.0,True,413.24389352613207,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35119,60,,,,,,,9.554686163866048,True,46.74389352613207,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35119,60,,,,,,,2.388671540966512,True,100.24389352613207,cusum
+E6_ramp_0.05,A  Night-only level model,35120,60,,,,,,,1.6068995233709888,True,61.765492420935516,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35120,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35120,60,,,,,,,3.2137990467419777,True,123.26549242093552,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35120,60,,,,,,,0.0,True,29.598825754268887,cusum
+E6_ramp_0.05,A  Night-only level model,35121,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35121,60,,,,,,,0.0,True,169.47169958270115,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35121,60,,,,,,,5.2128378306856336,False,,
+E6_ramp_0.05,"D  Adaptive, all guardrails",35121,60,,,,,,,3.475225220457089,True,30.63836624936789,cusum
+E6_ramp_0.05,A  Night-only level model,35122,60,,,,,,,2.6119205648088673,True,206.50744115239934,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35122,60,,,,,,,0.0,True,295.67410781906597,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35122,60,,,,,,,0.0,True,34.00744115239934,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35122,60,,,,,,,0.0,True,40.00744115239934,cusum
+E6_ramp_0.05,A  Night-only level model,35123,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35123,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35123,60,,,,,,,9.457945612846562,True,26.080396073462282,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35123,60,,,,,,,0.0,True,81.24706274012897,cusum
+E6_ramp_0.05,A  Night-only level model,35124,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35124,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35124,60,,,,,,,0.0,True,508.7650437439354,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35124,60,,,,,,,1.6015364443466291,True,39.265043743935394,cusum
+E6_ramp_0.05,A  Night-only level model,35125,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35125,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35125,60,,,,,,,3.993416401011956,True,21.20324962416953,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35125,60,,,,,,,0.0,True,45.536582957502844,cusum
+E6_ramp_0.05,A  Night-only level model,35126,60,,,,,,,0.0,True,611.3816516282566,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35126,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35126,60,,,,,,,4.373111238700094,True,21.714984961590062,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35126,60,,,,,,,0.0,True,44.04831829492332,cusum
+E6_ramp_0.05,A  Night-only level model,35127,60,,,,,,,0.0,True,50.901418272530975,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35127,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35127,60,,,,,,,6.577387310571323,True,712.7347516058642,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35127,60,,,,,,,0.0,True,16.06808493919766,cusum
+E6_ramp_0.05,A  Night-only level model,35128,60,,,,,,,0.0,True,39.94669777902675,cusum
+E6_ramp_0.05,"B  Static physics, calibrated once",35128,60,,,,,,,0.0,True,201.11336444569338,cusum
+E6_ramp_0.05,"C  Adaptive, no guardrails",35128,60,,,,,,,0.0,True,8.780031112360064,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35128,60,,,,,,,0.0,True,33.94669777902675,cusum
+E6_ramp_0.05,A  Night-only level model,35129,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"B  Static physics, calibrated once",35129,60,,,,,,,0.0,False,,
+E6_ramp_0.05,"C  Adaptive, no guardrails",35129,60,,,,,,,11.168051301558748,True,7.591146326617945,cusum
+E6_ramp_0.05,"D  Adaptive, all guardrails",35129,60,,,,,,,0.0,True,67.09114632661795,cusum
+E6_ramp_0.10,A  Night-only level model,35200,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"B  Static physics, calibrated once",35200,60,,,,,,,0.0,True,357.6744192853953,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35200,60,,,,,,,6.476874541391769,True,23.674419285395288,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35200,60,,,,,,,3.2384372706958846,True,2.174419285395288,verify
+E6_ramp_0.10,A  Night-only level model,35201,60,,,,,,,0.0,True,40.505696866965934,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35201,60,,,,,,,0.0,True,107.33903020029925,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35201,60,,,,,,,3.1533633472619766,True,117.00569686696588,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35201,60,,,,,,,0.0,True,19.33903020029925,cusum
+E6_ramp_0.10,A  Night-only level model,35202,60,,,,,,,1.9081480427797972,True,12.504119950549125,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35202,60,,,,,,,0.0,True,104.17078661721587,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35202,60,,,,,,,0.0,True,12.504119950549125,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35202,60,,,,,,,0.0,True,17.670786617215867,cusum
+E6_ramp_0.10,A  Night-only level model,35203,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"B  Static physics, calibrated once",35203,60,,,,,,,0.0,True,330.382657456414,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35203,60,,,,,,,1.7846047684392787,True,22.215990789747366,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35203,60,,,,,,,1.7846047684392787,True,43.382657456413995,verify
+E6_ramp_0.10,A  Night-only level model,35204,60,,,,,,,0.0,True,112.4902192620487,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35204,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35204,60,,,,,,,0.0,True,29.156885928715326,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35204,60,,,,,,,0.0,True,35.156885928715326,cusum
+E6_ramp_0.10,A  Night-only level model,35205,60,,,,,,,0.0,True,69.15526665197672,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35205,60,,,,,,,0.0,True,69.15526665197672,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35205,60,,,,,,,0.0,True,25.98859998531009,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35205,60,,,,,,,0.0,True,25.98859998531009,cusum
+E6_ramp_0.10,A  Night-only level model,35206,60,,,,,,,0.0,True,708.9557893213539,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35206,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35206,60,,,,,,,5.132880826578423,True,293.62245598802053,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35206,60,,,,,,,2.5664404132892114,True,45.12245598802053,cusum
+E6_ramp_0.10,A  Night-only level model,35207,60,,,,,,,0.0,True,63.644114198679006,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35207,60,,,,,,,0.0,True,90.144114198679,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35207,60,,,,,,,2.834394005590254,True,13.644114198679006,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35207,60,,,,,,,0.0,True,18.644114198679006,cusum
+E6_ramp_0.10,A  Night-only level model,35208,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"B  Static physics, calibrated once",35208,60,,,,,,,0.0,True,150.74459093766257,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35208,60,,,,,,,0.0,True,22.911257604329307,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35208,60,,,,,,,0.0,True,22.911257604329307,cusum
+E6_ramp_0.10,A  Night-only level model,35209,60,,,,,,,1.6082057976373636,True,86.12943806211763,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35209,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35209,60,,,,,,,4.824617392912091,True,41.962771395451,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35209,60,,,,,,,1.6082057976373636,True,47.962771395451,cusum
+E6_ramp_0.10,A  Night-only level model,35210,60,,,,,,,6.944553414313357,True,69.78650754358694,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35210,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35210,60,,,,,,,3.4722767071566785,True,13.119840876920193,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35210,60,,,,,,,0.0,True,29.453174210253565,cusum
+E6_ramp_0.10,A  Night-only level model,35211,60,,,,,,,6.57723639525837,True,577.3963948589737,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35211,60,,,,,,,0.0,True,682.8963948589737,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35211,60,,,,,,,3.288618197629185,True,16.563061525640478,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35211,60,,,,,,,0.0,True,16.563061525640478,cusum
+E6_ramp_0.10,A  Night-only level model,35212,60,,,,,,,0.0,True,132.53956424131422,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35212,60,,,,,,,0.0,True,102.3728975746476,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35212,60,,,,,,,0.0,True,47.20623090798085,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35212,60,,,,,,,0.0,True,23.539564241314224,cusum
+E6_ramp_0.10,A  Night-only level model,35213,60,,,,,,,1.8084833959824236,True,39.54302251295633,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35213,60,,,,,,,0.0,True,72.3763558462897,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35213,60,,,,,,,0.0,True,19.043022512956327,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35213,60,,,,,,,0.0,True,25.043022512956327,cusum
+E6_ramp_0.10,A  Night-only level model,35214,60,,,,,,,1.9834456199389288,True,504.8286747926221,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35214,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35214,60,,,,,,,1.9834456199389288,True,31.66200812595548,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35214,60,,,,,,,1.9834456199389288,True,83.82867479262211,verify
+E6_ramp_0.10,A  Night-only level model,35215,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"B  Static physics, calibrated once",35215,60,,,,,,,0.0,True,331.52346381105605,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35215,60,,,,,,,10.520682736908702,True,23.023463811056104,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35215,60,,,,,,,7.013788491272468,True,30.023463811056104,cusum
+E6_ramp_0.10,A  Night-only level model,35216,60,,,,,,,0.0,True,76.83769705139059,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35216,60,,,,,,,0.0,True,82.00436371805728,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35216,60,,,,,,,0.0,True,70.83769705139059,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35216,60,,,,,,,0.0,True,35.50436371805728,cusum
+E6_ramp_0.10,A  Night-only level model,35217,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"B  Static physics, calibrated once",35217,60,,,,,,,0.0,True,93.10218942874587,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35217,60,,,,,,,0.0,True,16.10218942874593,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35217,60,,,,,,,0.0,True,28.10218942874593,cusum
+E6_ramp_0.10,A  Night-only level model,35218,60,,,,,,,0.0,True,65.59260423034351,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35218,60,,,,,,,0.0,True,104.09260423034351,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35218,60,,,,,,,5.479143664501846,True,20.425937563676825,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35218,60,,,,,,,0.0,True,20.425937563676825,cusum
+E6_ramp_0.10,A  Night-only level model,35219,60,,,,,,,0.0,True,216.56617802111145,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35219,60,,,,,,,0.0,True,179.23284468777808,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35219,60,,,,,,,0.0,True,32.23284468777808,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35219,60,,,,,,,0.0,True,27.399511354444712,cusum
+E6_ramp_0.10,A  Night-only level model,35220,60,,,,,,,0.0,True,776.2902310612621,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35220,60,,,,,,,0.0,True,87.95689772792889,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35220,60,,,,,,,0.0,True,18.62356439459552,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35220,60,,,,,,,0.0,True,22.62356439459552,cusum
+E6_ramp_0.10,A  Night-only level model,35221,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"B  Static physics, calibrated once",35221,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35221,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"D  Adaptive, all guardrails",35221,60,,,,,,,0.0,True,187.1925854347728,cusum
+E6_ramp_0.10,A  Night-only level model,35222,60,,,,,,,0.0,True,380.7710734302169,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35222,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35222,60,,,,,,,3.610912299080757,True,25.771073430216916,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35222,60,,,,,,,0.0,True,37.771073430216916,cusum
+E6_ramp_0.10,A  Night-only level model,35223,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"B  Static physics, calibrated once",35223,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35223,60,,,,,,,3.226451141551922,True,25.511265139749298,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35223,60,,,,,,,0.0,True,37.177931806415984,cusum
+E6_ramp_0.10,A  Night-only level model,35224,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"B  Static physics, calibrated once",35224,60,,,,,,,0.0,True,377.81591814777346,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35224,60,,,,,,,12.370393702055777,True,32.9825848144402,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35224,60,,,,,,,4.94815748082231,True,91.9825848144402,cusum
+E6_ramp_0.10,A  Night-only level model,35225,60,,,,,,,0.0,True,1.3777434702391247,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35225,60,,,,,,,0.0,True,423.04441013690564,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35225,60,,,,,,,1.5648015060828298,True,32.71107680357238,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35225,60,,,,,,,0.0,True,104.04441013690575,cusum
+E6_ramp_0.10,A  Night-only level model,35226,60,,,,,,,0.0,True,688.113104655056,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35226,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35226,60,,,,,,,5.134053113599492,True,7.279771321722706,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35226,60,,,,,,,0.0,True,26.113104655055963,verify
+E6_ramp_0.10,A  Night-only level model,35227,60,,,,,,,3.2312839862513547,True,134.02338488549492,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35227,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35227,60,,,,,,,3.2312839862513547,True,28.19005155216155,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35227,60,,,,,,,1.6156419931256774,True,28.19005155216155,cusum
+E6_ramp_0.10,A  Night-only level model,35228,60,,,,,,,0.0,True,196.63126121285705,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35228,60,,,,,,,0.0,False,,
+E6_ramp_0.10,"C  Adaptive, no guardrails",35228,60,,,,,,,4.958606922651943,True,36.2979278795238,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35228,60,,,,,,,4.958606922651943,True,92.7979278795238,cusum
+E6_ramp_0.10,A  Night-only level model,35229,60,,,,,,,0.0,True,131.81315397805827,cusum
+E6_ramp_0.10,"B  Static physics, calibrated once",35229,60,,,,,,,0.0,True,358.64648731139164,cusum
+E6_ramp_0.10,"C  Adaptive, no guardrails",35229,60,,,,,,,2.559058151148336,True,25.313153978058267,cusum
+E6_ramp_0.10,"D  Adaptive, all guardrails",35229,60,,,,,,,2.559058151148336,True,51.14648731139164,cusum
+E6_ramp_0.25,A  Night-only level model,35300,60,,,,,,,0.0,True,392.24274300009165,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35300,60,,,,,,,0.0,True,193.5760763334249,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35300,60,,,,,,,0.0,True,15.24274300009165,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35300,60,,,,,,,0.0,True,20.40940966675828,cusum
+E6_ramp_0.25,A  Night-only level model,35301,60,,,,,,,5.8027748666132775,True,19.676195911863886,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35301,60,,,,,,,0.0,True,28.0095292451972,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35301,60,,,,,,,0.0,False,,
+E6_ramp_0.25,"D  Adaptive, all guardrails",35301,60,,,,,,,0.0,True,23.84286257853057,cusum
+E6_ramp_0.25,A  Night-only level model,35302,60,,,,,,,0.0,True,33.09020238637322,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35302,60,,,,,,,0.0,True,42.75686905303985,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35302,60,,,,,,,0.0,True,11.75686905303985,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35302,60,,,,,,,0.0,True,17.75686905303985,cusum
+E6_ramp_0.25,A  Night-only level model,35303,60,,,,,,,0.0,True,698.9578001979517,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35303,60,,,,,,,0.0,True,644.6244668646184,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35303,60,,,,,,,1.6575519224182407,True,19.457800197951656,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35303,60,,,,,,,0.0,True,12.457800197951656,verify
+E6_ramp_0.25,A  Night-only level model,35304,60,,,,,,,6.072858219216409,True,6.212697873181639,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35304,60,,,,,,,0.0,True,46.71269787318158,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35304,60,,,,,,,0.0,True,6.212697873181639,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35304,60,,,,,,,0.0,True,11.879364539848325,cusum
+E6_ramp_0.25,A  Night-only level model,35305,60,,,,,,,0.0,True,21.099082351294896,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35305,60,,,,,,,0.0,True,41.432415684628154,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35305,60,,,,,,,5.9032374498546,True,15.599082351294896,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35305,60,,,,,,,5.9032374498546,True,15.599082351294896,cusum
+E6_ramp_0.25,A  Night-only level model,35306,60,,,,,,,0.0,True,63.74974916188796,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35306,60,,,,,,,0.0,True,92.24974916188796,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35306,60,,,,,,,4.769524052845459,True,16.583082495221333,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35306,60,,,,,,,0.0,True,22.91641582855459,cusum
+E6_ramp_0.25,A  Night-only level model,35307,60,,,,,,,0.0,True,62.585247026151364,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35307,60,,,,,,,0.0,True,44.41858035948462,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35307,60,,,,,,,0.0,True,7.751913692817993,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35307,60,,,,,,,0.0,True,12.251913692817993,cusum
+E6_ramp_0.25,A  Night-only level model,35308,60,,,,,,,3.08085020452371,True,13.763221382114239,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35308,60,,,,,,,0.0,True,47.76322138211424,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35308,60,,,,,,,3.08085020452371,True,7.763221382114239,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35308,60,,,,,,,0.0,True,13.763221382114239,cusum
+E6_ramp_0.25,A  Night-only level model,35309,60,,,,,,,0.0,True,32.081531165862486,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35309,60,,,,,,,0.0,True,45.58153116586243,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35309,60,,,,,,,0.0,True,4.414864499195801,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35309,60,,,,,,,0.0,True,9.4148644991958,cusum
+E6_ramp_0.25,A  Night-only level model,35310,60,,,,,,,0.0,True,42.21828055233186,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35310,60,,,,,,,0.0,True,50.71828055233186,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35310,60,,,,,,,4.166485193318401,True,13.884947218998605,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35310,60,,,,,,,0.0,True,18.051613885665233,cusum
+E6_ramp_0.25,A  Night-only level model,35311,60,,,,,,,0.0,True,30.786793616854368,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35311,60,,,,,,,0.0,True,44.953460283521,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35311,60,,,,,,,0.0,True,20.620126950187682,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35311,60,,,,,,,0.0,True,15.453460283520997,cusum
+E6_ramp_0.25,A  Night-only level model,35312,60,,,,,,,0.0,True,250.6964012794167,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35312,60,,,,,,,0.0,True,91.1964012794167,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35312,60,,,,,,,4.821748600061163,True,18.696401279416705,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35312,60,,,,,,,3.214499066707442,True,18.696401279416705,cusum
+E6_ramp_0.25,A  Night-only level model,35313,60,,,,,,,2.023116804642389,True,105.61347958366207,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35313,60,,,,,,,0.0,True,179.44681291699533,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35313,60,,,,,,,0.0,True,19.446812916995327,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35313,60,,,,,,,0.0,True,25.446812916995327,cusum
+E6_ramp_0.25,A  Night-only level model,35314,60,,,,,,,0.0,True,101.89002390378369,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35314,60,,,,,,,0.0,True,274.5566905704503,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35314,60,,,,,,,0.0,True,20.05669057045037,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35314,60,,,,,,,0.0,True,36.056690570450314,cusum
+E6_ramp_0.25,A  Night-only level model,35315,60,,,,,,,0.0,True,33.47543138715059,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35315,60,,,,,,,0.0,True,44.80876472048385,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35315,60,,,,,,,0.0,True,9.80876472048385,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35315,60,,,,,,,0.0,True,13.975431387150593,cusum
+E6_ramp_0.25,A  Night-only level model,35316,60,,,,,,,0.0,True,23.382063072869812,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35316,60,,,,,,,0.0,True,40.215396406203126,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35316,60,,,,,,,0.0,True,8.548729739536498,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35316,60,,,,,,,0.0,True,14.548729739536498,cusum
+E6_ramp_0.25,A  Night-only level model,35317,60,,,,,,,0.0,True,41.98303658093158,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35317,60,,,,,,,0.0,True,41.98303658093158,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35317,60,,,,,,,4.071239987841422,True,13.316369914264897,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35317,60,,,,,,,0.0,True,19.316369914264897,cusum
+E6_ramp_0.25,A  Night-only level model,35318,60,,,,,,,3.281099673662285,True,18.62275053421149,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35318,60,,,,,,,0.0,True,41.12275053421149,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35318,60,,,,,,,0.0,True,14.456083867544749,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35318,60,,,,,,,0.0,True,4.622750534211491,cusum
+E6_ramp_0.25,A  Night-only level model,35319,60,,,,,,,0.0,True,80.29997449868347,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35319,60,,,,,,,0.0,True,286.4666411653501,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35319,60,,,,,,,2.760030397197513,True,15.63330783201684,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35319,60,,,,,,,0.0,True,21.63330783201684,cusum
+E6_ramp_0.25,A  Night-only level model,35320,60,,,,,,,0.0,True,143.270994118486,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35320,60,,,,,,,0.0,True,595.4376607851527,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35320,60,,,,,,,9.888416384303625,True,33.10432745181936,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35320,60,,,,,,,0.0,True,33.10432745181936,cusum
+E6_ramp_0.25,A  Night-only level model,35321,60,,,,,,,2.5130175984930228,True,7.158525843553662,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35321,60,,,,,,,0.0,True,70.82519251022029,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35321,60,,,,,,,0.0,True,17.15852584355366,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35321,60,,,,,,,0.0,True,17.15852584355366,cusum
+E6_ramp_0.25,A  Night-only level model,35322,60,,,,,,,0.0,True,258.71428368751543,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35322,60,,,,,,,0.0,True,249.0476170208488,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35322,60,,,,,,,9.510430777904473,True,3.71428368751549,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35322,60,,,,,,,0.0,True,30.21428368751549,cusum
+E6_ramp_0.25,A  Night-only level model,35323,60,,,,,,,0.0,True,385.8143210550561,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35323,60,,,,,,,0.0,True,251.98098772172284,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35323,60,,,,,,,0.0,True,98.14765438838947,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35323,60,,,,,,,4.1855838518317245,True,15.98098772172284,cusum
+E6_ramp_0.25,A  Night-only level model,35324,60,,,,,,,9.37125351642101,True,68.0052597399706,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35324,60,,,,,,,0.0,True,221.33859307330397,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35324,60,,,,,,,14.056880274631515,True,9.671926406637283,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35324,60,,,,,,,0.0,True,28.83859307330397,cusum
+E6_ramp_0.25,A  Night-only level model,35325,60,,,,,,,5.576796961640746,True,73.18089642544419,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35325,60,,,,,,,0.0,True,254.34756309211082,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35325,60,,,,,,,0.0,True,10.680896425444189,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35325,60,,,,,,,1.858932320546915,True,16.68089642544419,cusum
+E6_ramp_0.25,A  Night-only level model,35326,60,,,,,,,0.0,True,42.06875700566957,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35326,60,,,,,,,0.0,True,60.23542367233631,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35326,60,,,,,,,2.2411434470312055,True,13.568757005669568,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35326,60,,,,,,,0.0,True,18.068757005669568,cusum
+E6_ramp_0.25,A  Night-only level model,35327,60,,,,,,,7.731421990388993,True,37.28727142926823,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35327,60,,,,,,,0.0,True,113.95393809593486,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35327,60,,,,,,,10.30856265385199,True,16.6206047626016,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35327,60,,,,,,,0.0,True,6.120604762601602,cusum
+E6_ramp_0.25,A  Night-only level model,35328,60,,,,,,,0.0,False,,
+E6_ramp_0.25,"B  Static physics, calibrated once",35328,60,,,,,,,0.0,True,351.6736300914069,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35328,60,,,,,,,4.29441294525655,True,16.506963424740263,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35328,60,,,,,,,4.29441294525655,True,22.506963424740263,cusum
+E6_ramp_0.25,A  Night-only level model,35329,60,,,,,,,0.0,True,358.379904313197,cusum
+E6_ramp_0.25,"B  Static physics, calibrated once",35329,60,,,,,,,0.0,True,181.2132376465304,cusum
+E6_ramp_0.25,"C  Adaptive, no guardrails",35329,60,,,,,,,3.480053329424557,True,31.713237646530388,cusum
+E6_ramp_0.25,"D  Adaptive, all guardrails",35329,60,,,,,,,1.7400266647122784,True,31.713237646530388,cusum
