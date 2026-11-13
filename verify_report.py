@@ -72,7 +72,7 @@ def main():
     # ---------------- sweep: M2 / M3
     rate_of = {cd: V.LEAK_SIZE / cd for cd in V.CREEP_DAYS}
     start_h = V.LEAK_START_DAY * 24.0
-    det_ind, srows = {}, []
+    det_ind, tw_ind, srows = {}, {}, []
     for nm in names:
         for cd in V.CREEP_DAYS:
             hz = (V.LEAK_START_DAY + cd + V.HORIZON_AFTER_FULL_DAYS) * 24.0
@@ -87,6 +87,7 @@ def main():
                     lvl.append(V.LEAK_SIZE * min((hit[0] - start_h) / (cd * 24.0), 1.0))
             ch = [1.0 if any(start_h < a <= hz for a, _ in parse(r['alarms'])) else 0.0 for _, r in tw.iterrows()]
             det_ind[(nm, cd)] = np.array(det)
+            tw_ind[(nm, cd)] = np.array(ch)
             p, lo, hi = S.wilson(int(sum(det)), len(det))
             cp, clo, chi = S.wilson(int(sum(ch)), len(ch))
             ok = ((1 - p) <= P2_MISSED) and (lo > chi)
@@ -138,6 +139,25 @@ def main():
     L += [md(pd.DataFrame(rows)), '',
           'Verdict rule (plan, P4): INERT if every paired 95% interval includes 0; HARMFUL if removal lowers clean false alarms '
           'and raises detection at every rate with intervals excluding 0; otherwise "has an effect" (direction is in the columns).', '']
+
+    # ---------------- post-hoc descriptive addition (NOT a pass criterion; see plan section 7)
+    L += ['## Post-hoc: detection above the leak-free twin (descriptive only, added after results were seen)', '',
+          'Per tube: (alarm in leak run) - (alarm in the same tube without a leak), same window. Mean and paired bootstrap 95% interval. '
+          'A detector that alarms by chance in both runs scores about 0.', '']
+    rows = []
+    for nm in names:
+        r = {'detector': nm}
+        for cd in V.CREEP_DAYS:
+            r['%.4f' % rate_of[cd]] = ci(S.boot_ci(det_ind[(nm, cd)] - tw_ind[(nm, cd)]))
+        rows.append(r)
+    L += ['Columns are growth rate in Pa/h per day.', '', md(pd.DataFrame(rows)), '']
+    rows = []
+    for base in (F.F0, F.F1):
+        r = {'D minus': base}
+        for cd in V.CREEP_DAYS:
+            r['%.4f' % rate_of[cd]] = ci(S.paired_diff_ci(det_ind[(D, cd)] - tw_ind[(D, cd)], det_ind[(base, cd)] - tw_ind[(base, cd)]))
+        rows.append(r)
+    L += ['D minus baseline, in this above-twin measure:', '', md(pd.DataFrame(rows)), '']
 
     L += ['## Reading these numbers', '',
           '- The sweep has %d tubes per cell, so cell-level intervals are wide; differences inside them are not evidence.' % len(V.SWEEP_SEEDS),

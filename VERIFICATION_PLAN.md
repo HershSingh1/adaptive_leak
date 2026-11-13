@@ -99,4 +99,9 @@ These are reporting rubrics. A detector that fails is reported as failing.
 
 ## 7. Deviations log
 
-(Empty. Any change after this commit is appended here with date and reason, before results are read.)
+- 2026-11-13, before test runs: first attempt to run `verify_fit.py` with `python -I` failed on import (isolated mode hides
+  neighbouring modules); rerun without `-I`. No data or thresholds involved.
+- 2026-11-13, **after results were seen**: `verify_report.py` gained a section "Post-hoc: detection above the leak-free twin".
+  Reason: twin alarm shares were high (leak-free runs alarm often over 30-160 day windows), so the plan's P2/P3 "detected"
+  share is inflated by false alarms. The section is descriptive only. **No criterion, threshold, seed or earlier verdict was changed.**
+  The P3 "D better" verdicts as printed follow the plan's rule and should be read together with this section.
