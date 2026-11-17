@@ -8,3 +8,7 @@ downloads/
 *.zip
 fit.log
 *.log
+
+# modelica
+modelica/runs/
+modelica_results_*.csv
